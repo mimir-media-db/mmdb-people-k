@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kat_dennings",
+  "name": "Kat Dennings",
+  "external_ids": {
+    "wikidata": "Q231751",
+    "imdb": "nm0993507"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_shamrock",
+  "name": "Ken Shamrock",
+  "external_ids": {
+    "wikidata": "Q380834",
+    "imdb": "nm0787900"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

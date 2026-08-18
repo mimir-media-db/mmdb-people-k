@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kimberly_page",
+  "name": "Kimberly Page",
+  "external_ids": {
+    "wikidata": "Q6409969",
+    "imdb": "nm0266258"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

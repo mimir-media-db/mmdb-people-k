@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kapil_dev",
+  "name": "Kapil Dev",
+  "external_ids": {
+    "wikidata": "Q558189",
+    "imdb": "nm1337956"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}
