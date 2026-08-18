@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_khoa_do",
+  "name": "Khoa Do",
+  "external_ids": {
+    "wikidata": "Q6401926",
+    "imdb": "nm1072796"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

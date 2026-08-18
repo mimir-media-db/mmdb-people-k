@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_conroy",
+  "name": "Kevin Conroy",
+  "external_ids": {
+    "wikidata": "Q461264",
+    "imdb": "nm0175834"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2022
+}

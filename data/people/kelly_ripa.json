@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_ripa",
+  "name": "Kelly Ripa",
+  "external_ids": {
+    "wikidata": "Q1148035",
+    "imdb": "nm0727961"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
