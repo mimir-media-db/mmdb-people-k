@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kenny_rogers",
+  "name": "Kenny Rogers",
+  "external_ids": {
+    "wikidata": "Q217160",
+    "imdb": "nm0737006"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2020
+}

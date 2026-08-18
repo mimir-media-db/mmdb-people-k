@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_keanu_reeves",
+  "name": "Keanu Reeves",
+  "external_ids": {
+    "wikidata": "Q43416",
+    "imdb": "nm0000206"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

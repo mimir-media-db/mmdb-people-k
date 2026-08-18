@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kenan_thompson",
+  "name": "Kenan Thompson",
+  "external_ids": {
+    "wikidata": "Q552900",
+    "imdb": "nm0860380"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

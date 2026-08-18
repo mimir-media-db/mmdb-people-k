@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_scott",
+  "name": "Ken Scott",
+  "external_ids": {
+    "wikidata": "Q1410263",
+    "imdb": "nm0779433"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

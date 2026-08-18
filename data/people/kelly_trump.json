@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_trump",
+  "name": "Kelly Trump",
+  "external_ids": {
+    "wikidata": "Q62276",
+    "imdb": "nm0874341"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

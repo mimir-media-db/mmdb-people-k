@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kjell_henriksson",
+  "name": "Kjell Henriksson",
+  "external_ids": {
+    "wikidata": "Q111195364",
+    "imdb": "nm0377630"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kathy_bates",
+  "name": "Kathy Bates",
+  "external_ids": {
+    "wikidata": "Q544465",
+    "imdb": "nm0000870"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

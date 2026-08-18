@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kathy_heart",
+  "name": "Kathy Heart",
+  "external_ids": {
+    "wikidata": "Q55807446",
+    "imdb": "nm0372561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

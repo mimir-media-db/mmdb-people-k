@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_director",
+  "name": "Kim Director",
+  "external_ids": {
+    "wikidata": "Q435790",
+    "imdb": "nm0228171"
+  },
+  "last_updated": "2026-08-18"
+}
