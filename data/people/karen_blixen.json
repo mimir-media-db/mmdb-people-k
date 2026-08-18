@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_karen_blixen",
+  "name": "Karen Blixen",
+  "external_ids": {
+    "wikidata": "Q182804",
+    "imdb": "nm0227598"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1885,
+  "death_year": 1962
+}

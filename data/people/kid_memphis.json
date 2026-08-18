@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kid_memphis",
+  "name": "Kid Memphis",
+  "external_ids": {
+    "wikidata": "Q52106791",
+    "imdb": "nm1737466"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}
