@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_karl_ritter",
+  "name": "Karl Ritter",
+  "external_ids": {
+    "wikidata": "Q75585",
+    "imdb": "nm0728774"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1888,
+  "death_year": 1977
+}

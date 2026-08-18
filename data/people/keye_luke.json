@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_keye_luke",
+  "name": "Keye Luke",
+  "external_ids": {
+    "wikidata": "Q609316",
+    "imdb": "nm0525601"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1904,
+  "death_year": 1991
+}

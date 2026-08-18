@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_karl_kunstler",
+  "name": "Karl Künstler",
+  "external_ids": {
+    "wikidata": "Q1571455",
+    "imdb": "nm0478193"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 2022
+}

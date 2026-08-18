@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katt_williams",
+  "name": "Katt Williams",
+  "external_ids": {
+    "wikidata": "Q557948",
+    "imdb": "nm1139343"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

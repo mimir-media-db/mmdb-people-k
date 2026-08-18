@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_king_gordy",
+  "name": "King Gordy",
+  "external_ids": {
+    "wikidata": "Q3088239",
+    "imdb": "nm1271118"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

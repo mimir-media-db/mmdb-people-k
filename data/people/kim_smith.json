@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_smith",
+  "name": "Kim Smith",
+  "external_ids": {
+    "wikidata": "Q276050",
+    "imdb": "nm0808990"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

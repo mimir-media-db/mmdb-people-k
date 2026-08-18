@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kata_weber",
+  "name": "Kata Wéber",
+  "external_ids": {
+    "wikidata": "Q56391253",
+    "imdb": "nm0970537"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}
