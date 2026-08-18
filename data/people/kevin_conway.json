@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_conway",
+  "name": "Kevin Conway",
+  "external_ids": {
+    "wikidata": "Q586857",
+    "imdb": "nm0176723"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2020
+}

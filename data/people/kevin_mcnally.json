@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_mcnally",
+  "name": "Kevin McNally",
+  "external_ids": {
+    "wikidata": "Q335376",
+    "imdb": "nm0573618"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
