@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_klaus_wyborny",
+  "name": "Klaus Wyborny",
+  "external_ids": {
+    "wikidata": "Q1263877",
+    "imdb": "nm0943605"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

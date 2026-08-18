@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_mccarthy",
+  "name": "Kevin McCarthy",
+  "external_ids": {
+    "wikidata": "Q281404",
+    "imdb": "nm0002994"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 2010
+}

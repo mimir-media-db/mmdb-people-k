@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katie_grant",
+  "name": "Katie Grant",
+  "external_ids": {
+    "wikidata": "Q123540978",
+    "imdb": "nm1456913"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

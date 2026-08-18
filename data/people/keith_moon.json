@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_keith_moon",
+  "name": "Keith Moon",
+  "external_ids": {
+    "wikidata": "Q211696",
+    "imdb": "nm0007127"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 1978
+}
