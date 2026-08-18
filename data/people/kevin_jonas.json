@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_jonas",
+  "name": "Kevin Jonas",
+  "external_ids": {
+    "wikidata": "Q210172",
+    "imdb": "nm2650334"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1987,
+  "death_year": null
+}

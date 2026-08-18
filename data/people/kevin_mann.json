@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_mann",
+  "name": "Kevin Mann",
+  "external_ids": {
+    "wikidata": "Q6396850",
+    "imdb": "nm1269343"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1976,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_hudson",
+  "name": "Kate Hudson",
+  "external_ids": {
+    "wikidata": "Q169946",
+    "imdb": "nm0005028"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1979,
+  "death_year": null
+}

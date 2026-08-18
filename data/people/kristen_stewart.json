@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kristen_stewart",
+  "name": "Kristen Stewart",
+  "external_ids": {
+    "wikidata": "Q126599",
+    "imdb": "nm0829576"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1990,
+  "death_year": null
+}

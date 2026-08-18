@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_smith",
+  "name": "Kevin Smith",
+  "external_ids": {
+    "wikidata": "Q489831",
+    "imdb": "nm0003620"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": null
+}
