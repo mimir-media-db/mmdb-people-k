@@ -1,2 +1,3 @@
-# mmdb-people-k
-MMDB People — K
+# MMDB People — K
+
+People whose slug starts with 'k'.
