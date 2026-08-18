@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_duken",
+  "name": "Ken Duken",
+  "external_ids": {
+    "wikidata": "Q68084",
+    "imdb": "nm0241222"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_keith_david",
+  "name": "Keith David",
+  "external_ids": {
+    "wikidata": "Q370918",
+    "imdb": "nm0202966"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

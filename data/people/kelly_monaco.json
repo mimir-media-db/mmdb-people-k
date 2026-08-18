@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_monaco",
+  "name": "Kelly Monaco",
+  "external_ids": {
+    "wikidata": "Q451861",
+    "imdb": "nm0597450"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

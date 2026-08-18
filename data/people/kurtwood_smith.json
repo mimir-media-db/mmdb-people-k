@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kurtwood_smith",
+  "name": "Kurtwood Smith",
+  "external_ids": {
+    "wikidata": "Q317228",
+    "imdb": "nm0001748"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

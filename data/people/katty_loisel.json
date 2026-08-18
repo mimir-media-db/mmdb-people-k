@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katty_loisel",
+  "name": "Katty Loisel",
+  "external_ids": {
+    "wikidata": "Q3194259",
+    "imdb": "nm0518003"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

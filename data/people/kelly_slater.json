@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_slater",
+  "name": "Kelly Slater",
+  "external_ids": {
+    "wikidata": "Q364406",
+    "imdb": "nm0005440"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

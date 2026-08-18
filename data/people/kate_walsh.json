@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_walsh",
+  "name": "Kate Walsh",
+  "external_ids": {
+    "wikidata": "Q229979",
+    "imdb": "nm0005532"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

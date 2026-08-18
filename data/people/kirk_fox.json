@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kirk_fox",
+  "name": "Kirk Fox",
+  "external_ids": {
+    "wikidata": "Q6415432",
+    "imdb": "nm0289105"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

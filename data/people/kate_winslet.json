@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_winslet",
+  "name": "Kate Winslet",
+  "external_ids": {
+    "wikidata": "Q202765",
+    "imdb": "nm0000701"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

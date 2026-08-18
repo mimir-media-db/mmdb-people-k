@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_bacon",
+  "name": "Kevin Bacon",
+  "external_ids": {
+    "wikidata": "Q3454165",
+    "imdb": "nm0000102"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
