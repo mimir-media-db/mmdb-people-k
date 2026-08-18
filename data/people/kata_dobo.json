@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kata_dobo",
+  "name": "Kata Dobó",
+  "external_ids": {
+    "wikidata": "Q443466",
+    "imdb": "nm0229957"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

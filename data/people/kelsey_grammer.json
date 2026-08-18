@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelsey_grammer",
+  "name": "Kelsey Grammer",
+  "external_ids": {
+    "wikidata": "Q196560",
+    "imdb": "nm0001288"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

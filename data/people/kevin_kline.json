@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_kline",
+  "name": "Kevin Kline",
+  "external_ids": {
+    "wikidata": "Q105817",
+    "imdb": "nm0000177"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

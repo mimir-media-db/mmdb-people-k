@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_porter",
+  "name": "Kim Porter",
+  "external_ids": {
+    "wikidata": "Q58772926",
+    "imdb": "nm0692198"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970,
+  "death_year": 2018
+}
