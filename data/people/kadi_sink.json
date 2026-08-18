@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_kadi_sink",
+  "name": "Kadi Sink",
+  "external_ids": {
+    "wikidata": "Q116465719",
+    "imdb": "nm1840737"
+  },
+  "last_updated": "2026-08-18"
+}

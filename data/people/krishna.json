@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_krishna",
+  "name": "Krishna",
+  "external_ids": {
+    "wikidata": "Q16239080",
+    "imdb": "nm3484963"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}
