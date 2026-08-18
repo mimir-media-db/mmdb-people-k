@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karunas",
+  "name": "Karunas",
+  "external_ids": {
+    "wikidata": "Q6373686",
+    "imdb": "nm1420619"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

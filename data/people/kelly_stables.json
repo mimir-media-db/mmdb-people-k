@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_stables",
+  "name": "Kelly Stables",
+  "external_ids": {
+    "wikidata": "Q261104",
+    "imdb": "nm1261587"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

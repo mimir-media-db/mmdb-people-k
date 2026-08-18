@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kalman_somody",
+  "name": "Kálmán Somody",
+  "external_ids": {
+    "wikidata": "Q20033516",
+    "imdb": "nm0814124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943,
+  "death_year": 2015
+}

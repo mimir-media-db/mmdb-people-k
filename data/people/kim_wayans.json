@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_wayans",
+  "name": "Kim Wayans",
+  "external_ids": {
+    "wikidata": "Q456199",
+    "imdb": "nm0915462"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

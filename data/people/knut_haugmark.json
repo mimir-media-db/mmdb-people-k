@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_knut_haugmark",
+  "name": "Knut Haugmark",
+  "external_ids": {
+    "wikidata": "Q11981304",
+    "imdb": "nm0369366"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2008
+}

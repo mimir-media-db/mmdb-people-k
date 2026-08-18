@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kris_aquino",
+  "name": "Kris Aquino",
+  "external_ids": {
+    "wikidata": "Q466947",
+    "imdb": "nm0032643"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}
