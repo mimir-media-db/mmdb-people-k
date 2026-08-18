@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karvannan",
+  "name": "Karvannan",
+  "external_ids": {
+    "wikidata": "Q21151318",
+    "imdb": "nm10614256"
+  },
+  "last_updated": "2026-08-18",
+  "death_year": 2015
+}
