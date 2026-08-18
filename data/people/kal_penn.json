@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kal_penn",
+  "name": "Kal Penn",
+  "external_ids": {
+    "wikidata": "Q220536",
+    "imdb": "nm0671980"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

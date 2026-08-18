@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kirk_douglas",
+  "name": "Kirk Douglas",
+  "external_ids": {
+    "wikidata": "Q104027",
+    "imdb": "nm0000018"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1916,
+  "death_year": 2020
+}

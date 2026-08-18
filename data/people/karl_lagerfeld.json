@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_karl_lagerfeld",
+  "name": "Karl Lagerfeld",
+  "external_ids": {
+    "wikidata": "Q76716",
+    "imdb": "nm0481220"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933,
+  "death_year": 2019
+}
