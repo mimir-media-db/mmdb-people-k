@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karine_de_demo",
+  "name": "Karine de Demo",
+  "external_ids": {
+    "wikidata": "Q3193321",
+    "imdb": "nm1709194"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
