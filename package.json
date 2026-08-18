@@ -1,0 +1,9 @@
+{
+  "name": "mmdb-people-k",
+  "version": "1.0.0",
+  "description": "MMDB people data — K",
+  "private": true,
+  "devDependencies": {
+    "mmdb-validate": "^1.0.0"
+  }
+}
