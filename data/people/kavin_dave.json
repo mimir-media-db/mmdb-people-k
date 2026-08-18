@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kavin_dave",
+  "name": "Kavin Dave",
+  "external_ids": {
+    "wikidata": "Q6379241",
+    "imdb": "nm3253318"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1984,
+  "death_year": null
+}

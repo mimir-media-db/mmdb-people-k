@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_karan_johar",
+  "name": "Karan Johar",
+  "external_ids": {
+    "wikidata": "Q468442",
+    "imdb": "nm0424103"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1972,
+  "death_year": null
+}

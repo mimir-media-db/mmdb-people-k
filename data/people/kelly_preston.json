@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_preston",
+  "name": "Kelly Preston",
+  "external_ids": {
+    "wikidata": "Q236842",
+    "imdb": "nm0000593"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1962,
+  "death_year": 2020
+}

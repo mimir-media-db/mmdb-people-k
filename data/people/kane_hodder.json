@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kane_hodder",
+  "name": "Kane Hodder",
+  "external_ids": {
+    "wikidata": "Q465134",
+    "imdb": "nm0387987"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1955,
+  "death_year": null
+}
