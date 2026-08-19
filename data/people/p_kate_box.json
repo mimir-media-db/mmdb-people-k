@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_box",
+  "name": "Kate Box",
+  "external_ids": {
+    "wikidata": "Q65718360",
+    "imdb": "nm2094547"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kent_moran",
+  "name": "Kent Moran",
+  "external_ids": {
+    "wikidata": "Q6391837",
+    "imdb": "nm2092917"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
