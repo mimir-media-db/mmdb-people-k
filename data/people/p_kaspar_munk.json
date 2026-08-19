@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kaspar_munk",
+  "name": "Kaspar Munk",
+  "external_ids": {
+    "wikidata": "Q12321487",
+    "imdb": "nm1390830"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

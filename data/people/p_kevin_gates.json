@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_gates",
+  "name": "Kevin Gates",
+  "external_ids": {
+    "wikidata": "Q6396353",
+    "imdb": "nm4955587"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

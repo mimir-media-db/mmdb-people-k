@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kurt_cobain",
+  "name": "Kurt Cobain",
+  "external_ids": {
+    "wikidata": "Q8446",
+    "imdb": "nm0001052"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967,
+  "death_year": 1994
+}
