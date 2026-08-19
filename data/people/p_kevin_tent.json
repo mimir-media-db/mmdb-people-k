@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_tent",
+  "name": "Kevin Tent",
+  "external_ids": {
+    "wikidata": "Q301846",
+    "imdb": "nm0855188"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
