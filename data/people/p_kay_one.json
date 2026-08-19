@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kay_one",
+  "name": "Kay One",
+  "external_ids": {
+    "wikidata": "Q87562",
+    "imdb": "nm3816694"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

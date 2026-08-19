@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kathy_sweet",
+  "name": "Kathy Sweet",
+  "external_ids": {
+    "wikidata": "Q138910316",
+    "imdb": "nm2903628"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
