@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kan",
+  "name": "Kan",
+  "external_ids": {
+    "wikidata": "Q375164",
+    "imdb": "nm0437002"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962,
+  "death_year": 2023
+}

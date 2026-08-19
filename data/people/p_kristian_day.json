@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kristian_day",
+  "name": "Kristian Day",
+  "external_ids": {
+    "wikidata": "Q27051938",
+    "imdb": "nm2569699"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

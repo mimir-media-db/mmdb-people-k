@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_medlock",
+  "name": "Ken Medlock",
+  "external_ids": {
+    "wikidata": "Q24174649",
+    "imdb": "nm0575850"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

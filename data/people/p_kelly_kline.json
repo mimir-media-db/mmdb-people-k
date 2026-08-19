@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_kline",
+  "name": "Kelly Kline",
+  "external_ids": {
+    "wikidata": "Q437657",
+    "imdb": "nm1664795"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

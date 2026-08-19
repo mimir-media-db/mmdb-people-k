@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_borg",
+  "name": "Kevin Borg",
+  "external_ids": {
+    "wikidata": "Q1752598",
+    "imdb": "nm2147943"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
