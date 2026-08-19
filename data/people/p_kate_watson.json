@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_watson",
+  "name": "Kate Watson",
+  "external_ids": {
+    "wikidata": "Q99984132",
+    "imdb": "nm8870109"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
