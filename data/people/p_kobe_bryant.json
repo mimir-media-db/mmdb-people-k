@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kobe_bryant",
+  "name": "Kobe Bryant",
+  "external_ids": {
+    "wikidata": "Q25369",
+    "imdb": "nm1101483"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978,
+  "death_year": 2020
+}
