@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_chase",
+  "name": "Kelly Chase",
+  "external_ids": {
+    "wikidata": "Q1653940",
+    "imdb": "nm4017636"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

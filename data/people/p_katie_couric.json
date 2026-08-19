@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katie_couric",
+  "name": "Katie Couric",
+  "external_ids": {
+    "wikidata": "Q230739",
+    "imdb": "nm0183698"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}
