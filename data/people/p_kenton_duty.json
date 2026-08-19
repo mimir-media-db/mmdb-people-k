@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kenton_duty",
+  "name": "Kenton Duty",
+  "external_ids": {
+    "wikidata": "Q507446",
+    "imdb": "nm2778261"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

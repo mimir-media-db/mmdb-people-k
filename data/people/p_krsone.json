@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_krsone",
+  "name": "KRS-One",
+  "external_ids": {
+    "wikidata": "Q432552",
+    "imdb": "nm0472398"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
