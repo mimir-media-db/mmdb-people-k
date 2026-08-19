@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_phillips",
+  "name": "Kate Phillips",
+  "external_ids": {
+    "wikidata": "Q29440067",
+    "imdb": "nm7056012"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
