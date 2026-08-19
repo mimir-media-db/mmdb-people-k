@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kata_bartsch",
+  "name": "Kata Bartsch",
+  "external_ids": {
+    "wikidata": "Q20666744",
+    "imdb": "nm1846447"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
