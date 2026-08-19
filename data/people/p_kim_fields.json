@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_fields",
+  "name": "Kim Fields",
+  "external_ids": {
+    "wikidata": "Q772031",
+    "imdb": "nm0004917"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
