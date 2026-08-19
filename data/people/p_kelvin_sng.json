@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelvin_sng",
+  "name": "Kelvin Sng",
+  "external_ids": {
+    "wikidata": "Q6386742",
+    "imdb": "nm1488382"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
