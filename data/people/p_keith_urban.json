@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_keith_urban",
+  "name": "Keith Urban",
+  "external_ids": {
+    "wikidata": "Q315547",
+    "imdb": "nm1236707"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
