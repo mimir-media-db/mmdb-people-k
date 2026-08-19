@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_blatz",
+  "name": "Kelly Blatz",
+  "external_ids": {
+    "wikidata": "Q513432",
+    "imdb": "nm2034147"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

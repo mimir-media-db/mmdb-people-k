@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelly_craig",
+  "name": "Kelly Craig",
+  "external_ids": {
+    "wikidata": "Q3814392",
+    "imdb": "nm1259987"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kiddo",
+  "name": "Kiddo",
+  "external_ids": {
+    "wikidata": "Q2850477",
+    "imdb": "nm1072704"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
