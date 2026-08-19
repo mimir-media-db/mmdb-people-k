@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kurt_strand",
+  "name": "Kurt Strand",
+  "external_ids": {
+    "wikidata": "Q12323185",
+    "imdb": "nm1302568"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

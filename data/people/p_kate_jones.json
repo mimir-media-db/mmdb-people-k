@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kate_jones",
+  "name": "Kate Jones",
+  "external_ids": {
+    "wikidata": "Q138515627",
+    "imdb": "nm2354368"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
