@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_kinder_album",
+  "name": "Kinder Album",
+  "external_ids": {
+    "wikidata": "Q139592227",
+    "imdb": "nm14851623"
+  },
+  "last_updated": "2026-08-19"
+}
