@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kyrie_irving",
+  "name": "Kyrie Irving",
+  "external_ids": {
+    "wikidata": "Q348618",
+    "imdb": "nm4489994"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
