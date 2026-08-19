@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kirk_wise",
+  "name": "Kirk Wise",
+  "external_ids": {
+    "wikidata": "Q1073959",
+    "imdb": "nm0936374"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
