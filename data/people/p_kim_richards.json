@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_richards",
+  "name": "Kim Richards",
+  "external_ids": {
+    "wikidata": "Q587156",
+    "imdb": "nm0001668"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

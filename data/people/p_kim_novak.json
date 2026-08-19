@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_novak",
+  "name": "Kim Novak",
+  "external_ids": {
+    "wikidata": "Q212879",
+    "imdb": "nm0001571"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1933
+}

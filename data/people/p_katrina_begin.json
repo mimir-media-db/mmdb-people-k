@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katrina_begin",
+  "name": "Katrina Begin",
+  "external_ids": {
+    "wikidata": "Q3194202",
+    "imdb": "nm1640523"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

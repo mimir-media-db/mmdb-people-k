@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_kamoon_song",
+  "name": "Kamoon Song",
+  "external_ids": {
+    "wikidata": "Q113559028",
+    "imdb": "nm0814279"
+  },
+  "last_updated": "2026-08-19"
+}
