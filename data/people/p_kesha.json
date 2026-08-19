@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kesha",
+  "name": "Kesha",
+  "external_ids": {
+    "wikidata": "Q33605",
+    "imdb": "nm3732465"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
