@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kevin_parent",
+  "name": "Kevin Parent",
+  "external_ids": {
+    "wikidata": "Q3195784",
+    "imdb": "nm4762406"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
