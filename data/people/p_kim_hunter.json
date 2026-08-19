@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_hunter",
+  "name": "Kim Hunter",
+  "external_ids": {
+    "wikidata": "Q59824",
+    "imdb": "nm0001375"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1922,
+  "death_year": 2002
+}

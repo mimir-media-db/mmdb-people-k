@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katherine_parkinson",
+  "name": "Katherine Parkinson",
+  "external_ids": {
+    "wikidata": "Q265208",
+    "imdb": "nm1817670"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
