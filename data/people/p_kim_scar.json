@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_scar",
+  "name": "Kim Scar",
+  "external_ids": {
+    "wikidata": "Q26760311",
+    "imdb": "nm4369324"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
