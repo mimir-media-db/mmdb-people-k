@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_keegan_allen",
+  "name": "Keegan Allen",
+  "external_ids": {
+    "wikidata": "Q1358888",
+    "imdb": "nm1138805"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

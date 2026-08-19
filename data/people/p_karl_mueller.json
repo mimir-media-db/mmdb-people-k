@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karl_mueller",
+  "name": "Karl Mueller",
+  "external_ids": {
+    "wikidata": "Q29963884",
+    "imdb": "nm2656048"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

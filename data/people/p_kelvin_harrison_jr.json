@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kelvin_harrison_jr",
+  "name": "Kelvin Harrison Jr.",
+  "external_ids": {
+    "wikidata": "Q29622423",
+    "imdb": "nm5123156"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
