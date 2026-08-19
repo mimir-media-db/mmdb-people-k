@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_king_taylor",
+  "name": "King Taylor",
+  "external_ids": {
+    "wikidata": "Q132129545",
+    "imdb": "nm16668835"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2006
+}
