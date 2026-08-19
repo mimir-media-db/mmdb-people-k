@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_kimbo_slice",
+  "name": "Kimbo Slice",
+  "external_ids": {
+    "wikidata": "Q459971",
+    "imdb": "nm2837271"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974,
+  "death_year": 2016
+}
