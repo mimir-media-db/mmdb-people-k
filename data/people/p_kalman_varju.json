@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kalman_varju",
+  "name": "Kálmán Varju",
+  "external_ids": {
+    "wikidata": "Q1401942",
+    "imdb": "nm2022241"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

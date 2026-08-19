@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kris_jenner",
+  "name": "Kris Jenner",
+  "external_ids": {
+    "wikidata": "Q1138235",
+    "imdb": "nm1728539"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}
