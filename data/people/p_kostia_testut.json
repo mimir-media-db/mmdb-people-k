@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kostia_testut",
+  "name": "Kostia Testut",
+  "external_ids": {
+    "wikidata": "Q24937067",
+    "imdb": "nm2027544"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}

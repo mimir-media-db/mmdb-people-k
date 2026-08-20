@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kwes",
+  "name": "Kwes",
+  "external_ids": {
+    "wikidata": "Q6450332",
+    "imdb": "nm5847196"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1986
+}
