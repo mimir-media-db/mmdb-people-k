@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katja_kallio",
+  "name": "Katja Kallio",
+  "external_ids": {
+    "wikidata": "Q11870371",
+    "imdb": "nm1118539"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1968
+}
