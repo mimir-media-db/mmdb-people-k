@@ -3451,6 +3451,12 @@
     "path": "data/people/p_kamilla_hodol.json"
   },
   {
+    "id": "p_kamilla_krogsveen",
+    "name": "Kamilla Krogsveen",
+    "birth_year": 1977,
+    "path": "data/people/p_kamilla_krogsveen.json"
+  },
+  {
     "id": "p_kamilla_pfeffer",
     "name": "Kamilla Pfeffer",
     "birth_year": 1981,
@@ -10451,6 +10457,12 @@
     "path": "data/people/p_katariina_lohiniva.json"
   },
   {
+    "id": "p_katariina_souri",
+    "name": "Katariina Souri",
+    "birth_year": 1968,
+    "path": "data/people/p_katariina_souri.json"
+  },
+  {
     "id": "p_katariina_tamm",
     "name": "Katariina Tamm",
     "birth_year": 1989,
@@ -12584,6 +12596,12 @@
     "path": "data/people/p_katharina_kowalewski.json"
   },
   {
+    "id": "p_katharina_kress",
+    "name": "Katharina Kress",
+    "birth_year": 1978,
+    "path": "data/people/p_katharina_kress.json"
+  },
+  {
     "id": "p_katharina_lorenz",
     "name": "Katharina Lorenz",
     "birth_year": 1978,
@@ -14376,6 +14394,11 @@
     "name": "Katie Wallack",
     "birth_year": 1952,
     "path": "data/people/p_katie_wallack.json"
+  },
+  {
+    "id": "p_katie_wech",
+    "name": "Katie Wech",
+    "path": "data/people/p_katie_wech.json"
   },
   {
     "id": "p_katie_west",
@@ -16982,6 +17005,12 @@
     "path": "data/people/p_kazunari_tosa.json"
   },
   {
+    "id": "p_kazune_kawahara",
+    "name": "Kazune Kawahara",
+    "birth_year": 1972,
+    "path": "data/people/p_kazune_kawahara.json"
+  },
+  {
     "id": "p_kazunobu_mineta",
     "name": "Kazunobu Mineta",
     "birth_year": 1977,
@@ -17686,6 +17715,12 @@
     "name": "Kei Chika-ura",
     "birth_year": 1976,
     "path": "data/people/p_kei_chikaura.json"
+  },
+  {
+    "id": "p_kei_haneoka",
+    "name": "Kei Haneoka",
+    "birth_year": 1977,
+    "path": "data/people/p_kei_haneoka.json"
   },
   {
     "id": "p_kei_horie",
@@ -18406,6 +18441,12 @@
     "id": "p_keith_jordan",
     "name": "Keith Jordan",
     "path": "data/people/p_keith_jordan.json"
+  },
+  {
+    "id": "p_keith_kenniff",
+    "name": "Keith Kenniff",
+    "birth_year": 1981,
+    "path": "data/people/p_keith_kenniff.json"
   },
   {
     "id": "p_keith_kupferer",
@@ -23646,6 +23687,12 @@
     "id": "p_kevin_carraway",
     "name": "Kevin Carraway",
     "path": "data/people/p_kevin_carraway.json"
+  },
+  {
+    "id": "p_kevin_cecil",
+    "name": "Kevin Cecil",
+    "birth_year": 1969,
+    "path": "data/people/p_kevin_cecil.json"
   },
   {
     "id": "p_kevin_chamberlin",
@@ -33096,6 +33143,11 @@
     "path": "data/people/p_kiyohiko_ueki.json"
   },
   {
+    "id": "p_kiyoko_ogino",
+    "name": "Kiyoko Ogino",
+    "path": "data/people/p_kiyoko_ogino.json"
+  },
+  {
     "id": "p_kiyomi_aratani",
     "name": "Kiyomi Aratani",
     "birth_year": 1962,
@@ -33334,6 +33386,12 @@
     "name": "Kjell Sundvall",
     "birth_year": 1953,
     "path": "data/people/p_kjell_sundvall.json"
+  },
+  {
+    "id": "p_kjell_westo",
+    "name": "Kjell Westö",
+    "birth_year": 1961,
+    "path": "data/people/p_kjell_westo.json"
   },
   {
     "id": "p_kjell_wilhelmsen",
@@ -34300,6 +34358,12 @@
     "name": "Klaus Wirbitzky",
     "birth_year": 1939,
     "path": "data/people/p_klaus_wirbitzky.json"
+  },
+  {
+    "id": "p_klaus_wolfertstetter",
+    "name": "Klaus Wolfertstetter",
+    "birth_year": 1976,
+    "path": "data/people/p_klaus_wolfertstetter.json"
   },
   {
     "id": "p_klaus_wyborny",
@@ -36208,6 +36272,11 @@
     "path": "data/people/p_konstantin_kolemagin.json"
   },
   {
+    "id": "p_konstantin_konovalov",
+    "name": "Konstantin Konovalov",
+    "path": "data/people/p_konstantin_konovalov.json"
+  },
+  {
     "id": "p_konstantin_kotsev",
     "name": "Konstantin Kotsev",
     "birth_year": 1926,
@@ -37118,6 +37187,12 @@
     "name": "Kōtarō Koizumi",
     "birth_year": 1978,
     "path": "data/people/p_kotaro_koizumi.json"
+  },
+  {
+    "id": "p_kotaro_nakagawa",
+    "name": "Kōtarō Nakagawa",
+    "birth_year": 1969,
+    "path": "data/people/p_kotaro_nakagawa.json"
   },
   {
     "id": "p_kotaro_satomi",
@@ -39130,6 +39205,12 @@
     "path": "data/people/p_kristin_scott_thomas.json"
   },
   {
+    "id": "p_kristin_skogheim",
+    "name": "Kristin Skogheim",
+    "birth_year": 1970,
+    "path": "data/people/p_kristin_skogheim.json"
+  },
+  {
     "id": "p_kristin_suckow",
     "name": "Kristin Suckow",
     "birth_year": 1988,
@@ -40342,6 +40423,11 @@
     "path": "data/people/p_krsna.json"
   },
   {
+    "id": "p_krsna_solo",
+    "name": "Krsna Solo",
+    "path": "data/people/p_krsna_solo.json"
+  },
+  {
     "id": "p_krsone",
     "name": "KRS-One",
     "birth_year": 1965,
@@ -40814,6 +40900,12 @@
     "name": "Krzysztof Kopczyński",
     "birth_year": 1959,
     "path": "data/people/p_krzysztof_kopczynski.json"
+  },
+  {
+    "id": "p_krzysztof_kopka",
+    "name": "Krzysztof Kopka",
+    "birth_year": 1958,
+    "path": "data/people/p_krzysztof_kopka.json"
   },
   {
     "id": "p_krzysztof_kosedowski",
@@ -41534,6 +41626,12 @@
     "id": "p_kulwinder_billa",
     "name": "Kulwinder Billa",
     "path": "data/people/p_kulwinder_billa.json"
+  },
+  {
+    "id": "p_kum_veerabhadrappa",
+    "name": "Kum. Veerabhadrappa",
+    "birth_year": 1953,
+    "path": "data/people/p_kum_veerabhadrappa.json"
   },
   {
     "id": "p_kumaar",
@@ -43454,6 +43552,12 @@
     "id": "p_kyle_kassardjian",
     "name": "Kyle Kassardjian",
     "path": "data/people/p_kyle_kassardjian.json"
+  },
+  {
+    "id": "p_kyle_killen",
+    "name": "Kyle Killen",
+    "birth_year": 1900,
+    "path": "data/people/p_kyle_killen.json"
   },
   {
     "id": "p_kyle_labine",
