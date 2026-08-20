@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kid_koala",
+  "name": "Kid Koala",
+  "external_ids": {
+    "wikidata": "Q1347250",
+    "imdb": "nm1905068"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
