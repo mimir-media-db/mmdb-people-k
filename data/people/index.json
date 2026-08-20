@@ -123,6 +123,11 @@
     "path": "data/people/p_k_ganeshan.json"
   },
   {
+    "id": "p_k_gireesh_kumar",
+    "name": "K. Gireesh Kumar",
+    "path": "data/people/p_k_gireesh_kumar.json"
+  },
+  {
     "id": "p_k_gopinathan",
     "name": "K. Gopinathan",
     "birth_year": 1957,
@@ -2375,6 +2380,12 @@
     "id": "p_kalin_morrow",
     "name": "Kalin Morrow",
     "path": "data/people/p_kalin_morrow.json"
+  },
+  {
+    "id": "p_kalin_nikolov",
+    "name": "Kalin Nikolov",
+    "birth_year": 1982,
+    "path": "data/people/p_kalin_nikolov.json"
   },
   {
     "id": "p_kalin_sarmenov",
@@ -5188,6 +5199,12 @@
     "name": "Kåre Johannessen",
     "birth_year": 1963,
     "path": "data/people/p_kare_johannessen.json"
+  },
+  {
+    "id": "p_kare_vestrheim",
+    "name": "Kåre Vestrheim",
+    "birth_year": 1969,
+    "path": "data/people/p_kare_vestrheim.json"
   },
   {
     "id": "p_kareem_abduljabbar",
@@ -13799,6 +13816,12 @@
     "path": "data/people/p_katia_grenier.json"
   },
   {
+    "id": "p_katia_kissonegri",
+    "name": "Katia Kissonegri",
+    "birth_year": 1972,
+    "path": "data/people/p_katia_kissonegri.json"
+  },
+  {
     "id": "p_katia_klein",
     "name": "Katia Klein",
     "birth_year": 1993,
@@ -15525,6 +15548,12 @@
     "path": "data/people/p_kauko_laurikainen.json"
   },
   {
+    "id": "p_kauksi_ulle",
+    "name": "Kauksi Ülle",
+    "birth_year": 1962,
+    "path": "data/people/p_kauksi_ulle.json"
+  },
+  {
     "id": "p_kaupo_karelson",
     "name": "Kaupo Karelson",
     "birth_year": 1973,
@@ -16817,6 +16846,12 @@
     "name": "Kazuma Suzuki",
     "birth_year": 1968,
     "path": "data/people/p_kazuma_suzuki.json"
+  },
+  {
+    "id": "p_kazumasa_hashimoto",
+    "name": "Kazumasa Hashimoto",
+    "birth_year": 1973,
+    "path": "data/people/p_kazumasa_hashimoto.json"
   },
   {
     "id": "p_kazunari_ninomiya",
@@ -18621,6 +18656,11 @@
     "id": "p_kelley_cauthen",
     "name": "Kelley Cauthen",
     "path": "data/people/p_kelley_cauthen.json"
+  },
+  {
+    "id": "p_kelley_hunt",
+    "name": "Kelley Hunt",
+    "path": "data/people/p_kelley_hunt.json"
   },
   {
     "id": "p_kelley_jakle",
@@ -21040,6 +21080,12 @@
     "path": "data/people/p_kenneth_bruun_jrgensen.json"
   },
   {
+    "id": "p_kenneth_burgomaster",
+    "name": "Kenneth Burgomaster",
+    "birth_year": 1968,
+    "path": "data/people/p_kenneth_burgomaster.json"
+  },
+  {
     "id": "p_kenneth_burke",
     "name": "Kenneth Burke",
     "path": "data/people/p_kenneth_burke.json"
@@ -22772,6 +22818,12 @@
     "path": "data/people/p_kerstin_de_ahna.json"
   },
   {
+    "id": "p_kerstin_ekman",
+    "name": "Kerstin Ekman",
+    "birth_year": 1933,
+    "path": "data/people/p_kerstin_ekman.json"
+  },
+  {
     "id": "p_kerstin_hansson",
     "name": "Kerstin Hansson",
     "birth_year": 1969,
@@ -24129,6 +24181,11 @@
     "name": "Kevin Lee Burton",
     "birth_year": 1978,
     "path": "data/people/p_kevin_lee_burton.json"
+  },
+  {
+    "id": "p_kevin_leeson",
+    "name": "Kevin Leeson",
+    "path": "data/people/p_kevin_leeson.json"
   },
   {
     "id": "p_kevin_leroy",
@@ -28174,6 +28231,12 @@
     "name": "Kim Hyun-bin",
     "birth_year": 2004,
     "path": "data/people/p_kim_hyunbin.json"
+  },
+  {
+    "id": "p_kim_hyungjoo",
+    "name": "Kim Hyung-joo",
+    "birth_year": 1984,
+    "path": "data/people/p_kim_hyungjoo.json"
   },
   {
     "id": "p_kim_hyungjun",
@@ -32459,6 +32522,12 @@
     "path": "data/people/p_kishen_das.json"
   },
   {
+    "id": "p_kishon_khan",
+    "name": "Kishon Khan",
+    "birth_year": 1970,
+    "path": "data/people/p_kishon_khan.json"
+  },
+  {
     "id": "p_kishor_kadam",
     "name": "Kishor Kadam",
     "birth_year": 1967,
@@ -32974,6 +33043,12 @@
     "name": "Kjeld Norgaard",
     "birth_year": 1938,
     "path": "data/people/p_kjeld_norgaard.json"
+  },
+  {
+    "id": "p_kjell_askildsen",
+    "name": "Kjell Askildsen",
+    "birth_year": 1929,
+    "path": "data/people/p_kjell_askildsen.json"
   },
   {
     "id": "p_kjell_bergqvist",
@@ -33876,6 +33951,12 @@
     "path": "data/people/p_klaus_rainer_rohl.json"
   },
   {
+    "id": "p_klaus_richter",
+    "name": "Klaus Richter",
+    "birth_year": 1942,
+    "path": "data/people/p_klaus_richter.json"
+  },
+  {
     "id": "p_klaus_rifbjerg",
     "name": "Klaus Rifbjerg",
     "birth_year": 1931,
@@ -34278,6 +34359,12 @@
     "name": "Knut Nærum",
     "birth_year": 1961,
     "path": "data/people/p_knut_nrum.json"
+  },
+  {
+    "id": "p_knut_reiersrud",
+    "name": "Knut Reiersrud",
+    "birth_year": 1961,
+    "path": "data/people/p_knut_reiersrud.json"
   },
   {
     "id": "p_knut_schreiner",
@@ -38161,6 +38248,12 @@
     "path": "data/people/p_krister_kern.json"
   },
   {
+    "id": "p_krister_linder",
+    "name": "Krister Linder",
+    "birth_year": 1970,
+    "path": "data/people/p_krister_linder.json"
+  },
+  {
     "id": "p_kristi_angus",
     "name": "Kristi Angus",
     "birth_year": 1971,
@@ -39564,6 +39657,12 @@
     "name": "Kristoffer Tabori",
     "birth_year": 1952,
     "path": "data/people/p_kristoffer_tabori.json"
+  },
+  {
+    "id": "p_kristofor_brown",
+    "name": "Kristofor Brown",
+    "birth_year": 1900,
+    "path": "data/people/p_kristofor_brown.json"
   },
   {
     "id": "p_kristopher_belman",
@@ -41424,6 +41523,12 @@
     "path": "data/people/p_kundara_johny.json"
   },
   {
+    "id": "p_kundo_koyama",
+    "name": "Kundō Koyama",
+    "birth_year": 1964,
+    "path": "data/people/p_kundo_koyama.json"
+  },
+  {
     "id": "p_kung_lingyuan",
     "name": "Kung Ling-yuan",
     "path": "data/people/p_kung_lingyuan.json"
@@ -42030,6 +42135,12 @@
     "name": "Kurt Voss",
     "birth_year": 1963,
     "path": "data/people/p_kurt_voss.json"
+  },
+  {
+    "id": "p_kurt_wilhelm",
+    "name": "Kurt Wilhelm",
+    "birth_year": 1923,
+    "path": "data/people/p_kurt_wilhelm.json"
   },
   {
     "id": "p_kurt_wimmer",
