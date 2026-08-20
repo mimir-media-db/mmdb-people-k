@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_katja_kettu",
+  "name": "Katja Kettu",
+  "external_ids": {
+    "wikidata": "Q11870379",
+    "imdb": "nm2272466"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}
