@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_klaus_weller",
+  "name": "Klaus Weller",
+  "external_ids": {
+    "wikidata": "Q29000860",
+    "imdb": "nm2123879"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1953
+}
