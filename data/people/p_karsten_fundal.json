@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karsten_fundal",
+  "name": "Karsten Fundal",
+  "external_ids": {
+    "wikidata": "Q83269011",
+    "imdb": "nm2370189"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
