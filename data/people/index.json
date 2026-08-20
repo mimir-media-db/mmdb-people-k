@@ -2049,6 +2049,12 @@
     "path": "data/people/p_kakhi_kavsadze.json"
   },
   {
+    "id": "p_kaki_king",
+    "name": "Kaki King",
+    "birth_year": 1979,
+    "path": "data/people/p_kaki_king.json"
+  },
+  {
     "id": "p_kaki_sham",
     "name": "Kaki Sham",
     "birth_year": 1990,
@@ -7175,6 +7181,12 @@
     "path": "data/people/p_karin_malmsten.json"
   },
   {
+    "id": "p_karin_michalke",
+    "name": "Karin Michalke",
+    "birth_year": 1975,
+    "path": "data/people/p_karin_michalke.json"
+  },
+  {
     "id": "p_karin_miller",
     "name": "Karin Miller",
     "birth_year": 1925,
@@ -7856,6 +7868,12 @@
     "name": "Karl Glusman",
     "birth_year": 1988,
     "path": "data/people/p_karl_glusman.json"
+  },
+  {
+    "id": "p_karl_goldblat",
+    "name": "Karl Goldblat",
+    "birth_year": 1947,
+    "path": "data/people/p_karl_goldblat.json"
   },
   {
     "id": "p_karl_golden",
@@ -12496,6 +12514,12 @@
     "path": "data/people/p_katharina_nesytowa.json"
   },
   {
+    "id": "p_katharina_nuttall",
+    "name": "Katharina Nuttall",
+    "birth_year": 1972,
+    "path": "data/people/p_katharina_nuttall.json"
+  },
+  {
     "id": "p_katharina_ottobernstein",
     "name": "Katharina Otto-Bernstein",
     "birth_year": 1963,
@@ -13539,6 +13563,12 @@
     "name": "Kathryn Prescott",
     "birth_year": 1991,
     "path": "data/people/p_kathryn_prescott.json"
+  },
+  {
+    "id": "p_kathryn_price",
+    "name": "Kathryn Price",
+    "birth_year": 1972,
+    "path": "data/people/p_kathryn_price.json"
   },
   {
     "id": "p_kathryn_schott",
@@ -17726,6 +17756,12 @@
     "name": "Keiko Horiuchi",
     "birth_year": 1971,
     "path": "data/people/p_keiko_horiuchi.json"
+  },
+  {
+    "id": "p_keiko_kanome",
+    "name": "Keiko Kanome",
+    "birth_year": 1975,
+    "path": "data/people/p_keiko_kanome.json"
   },
   {
     "id": "p_keiko_kishi",
@@ -23290,6 +23326,12 @@
     "path": "data/people/p_kevin_bissonnette.json"
   },
   {
+    "id": "p_kevin_blumenfeld",
+    "name": "Kevin Blumenfeld",
+    "birth_year": 1983,
+    "path": "data/people/p_kevin_blumenfeld.json"
+  },
+  {
     "id": "p_kevin_booth",
     "name": "Kevin Booth",
     "birth_year": 1961,
@@ -23822,6 +23864,12 @@
     "name": "Kevin H.J. Lee",
     "birth_year": 1968,
     "path": "data/people/p_kevin_hj_lee.json"
+  },
+  {
+    "id": "p_kevin_hood",
+    "name": "Kevin Hood",
+    "birth_year": 1900,
+    "path": "data/people/p_kevin_hood.json"
   },
   {
     "id": "p_kevin_howarth",
@@ -25797,6 +25845,12 @@
     "name": "Khosro Shahraz",
     "birth_year": 1950,
     "path": "data/people/p_khosro_shahraz.json"
+  },
+  {
+    "id": "p_khosro_sina",
+    "name": "Khosro Sina",
+    "birth_year": 1971,
+    "path": "data/people/p_khosro_sina.json"
   },
   {
     "id": "p_khosrow_ahmadi",
@@ -31693,6 +31747,12 @@
     "path": "data/people/p_kiriko_nananan.json"
   },
   {
+    "id": "p_kiril_donchev",
+    "name": "Kiril Donchev",
+    "birth_year": 1936,
+    "path": "data/people/p_kiril_donchev.json"
+  },
+  {
     "id": "p_kiril_dzajkovski",
     "name": "Kiril Džajkovski",
     "birth_year": 1965,
@@ -31801,6 +31861,12 @@
     "name": "Kirill Miller",
     "birth_year": 1959,
     "path": "data/people/p_kirill_miller.json"
+  },
+  {
+    "id": "p_kirill_molchanov",
+    "name": "Kirill Molchanov",
+    "birth_year": 1922,
+    "path": "data/people/p_kirill_molchanov.json"
   },
   {
     "id": "p_kirill_nagiev",
@@ -32957,6 +33023,11 @@
     "path": "data/people/p_kjell_ola_dahl.json"
   },
   {
+    "id": "p_kjell_rune_myrland",
+    "name": "Kjell Rune Myrland",
+    "path": "data/people/p_kjell_rune_myrland.json"
+  },
+  {
     "id": "p_kjell_stormoen",
     "name": "Kjell Stormoen",
     "birth_year": 1921,
@@ -33563,6 +33634,12 @@
     "id": "p_klaus_barfod",
     "name": "Klaus Barfod",
     "path": "data/people/p_klaus_barfod.json"
+  },
+  {
+    "id": "p_klaus_burger",
+    "name": "Klaus Burger",
+    "birth_year": 1958,
+    "path": "data/people/p_klaus_burger.json"
   },
   {
     "id": "p_klaus_doldinger",
@@ -35879,6 +35956,12 @@
     "name": "Konstantin Shavlovsky",
     "birth_year": 1983,
     "path": "data/people/p_konstantin_shavlovsky.json"
+  },
+  {
+    "id": "p_konstantin_shevelyov",
+    "name": "Konstantin Shevelyov",
+    "birth_year": 1953,
+    "path": "data/people/p_konstantin_shevelyov.json"
   },
   {
     "id": "p_konstantin_shustaryov",
@@ -39738,6 +39821,12 @@
     "path": "data/people/p_kristyna_vanikova.json"
   },
   {
+    "id": "p_krisztian_grecso",
+    "name": "Krisztián Grecsó",
+    "birth_year": 1976,
+    "path": "data/people/p_krisztian_grecso.json"
+  },
+  {
     "id": "p_krisztian_kelemen",
     "name": "Krisztian Kelemen",
     "path": "data/people/p_krisztian_kelemen.json"
@@ -40398,6 +40487,12 @@
     "path": "data/people/p_krzysztof_ogoza.json"
   },
   {
+    "id": "p_krzysztof_penderecki",
+    "name": "Krzysztof Penderecki",
+    "birth_year": 1933,
+    "path": "data/people/p_krzysztof_penderecki.json"
+  },
+  {
     "id": "p_krzysztof_pieczynski",
     "name": "Krzysztof Pieczyński",
     "birth_year": 1957,
@@ -40820,6 +40915,12 @@
     "name": "Kuba Sienkiewicz",
     "birth_year": 1961,
     "path": "data/people/p_kuba_sienkiewicz.json"
+  },
+  {
+    "id": "p_kubert_leung",
+    "name": "Kubert Leung",
+    "birth_year": 1963,
+    "path": "data/people/p_kubert_leung.json"
   },
   {
     "id": "p_kubilay_aka",
