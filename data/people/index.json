@@ -523,6 +523,12 @@
     "path": "data/people/p_k_w_jeter.json"
   },
   {
+    "id": "p_k_y_narayanaswamy",
+    "name": "K Y Narayanaswamy",
+    "birth_year": 1965,
+    "path": "data/people/p_k_y_narayanaswamy.json"
+  },
+  {
     "id": "p_k1_de_ultimate",
     "name": "K1 De Ultimate",
     "birth_year": 1957,
@@ -1494,6 +1500,12 @@
     "name": "Kaidy Kuna",
     "birth_year": 1971,
     "path": "data/people/p_kaidy_kuna.json"
+  },
+  {
+    "id": "p_kaie_kotov",
+    "name": "Kaie Kotov",
+    "birth_year": 1978,
+    "path": "data/people/p_kaie_kotov.json"
   },
   {
     "id": "p_kaie_mihkelson",
@@ -3143,6 +3155,11 @@
     "path": "data/people/p_kamil_krejci.json"
   },
   {
+    "id": "p_kamil_kuc",
+    "name": "Kamil Kuc",
+    "path": "data/people/p_kamil_kuc.json"
+  },
+  {
     "id": "p_kamil_kula",
     "name": "Kamil Kula",
     "birth_year": 1989,
@@ -3674,6 +3691,12 @@
     "name": "Kanae Higashi",
     "birth_year": 1989,
     "path": "data/people/p_kanae_higashi.json"
+  },
+  {
+    "id": "p_kanae_minato",
+    "name": "Kanae Minato",
+    "birth_year": 1972,
+    "path": "data/people/p_kanae_minato.json"
   },
   {
     "id": "p_kanae_uotani",
@@ -5266,6 +5289,12 @@
     "id": "p_karek_tomek",
     "name": "Karek Tomek",
     "path": "data/people/p_karek_tomek.json"
+  },
+  {
+    "id": "p_karel_antonin",
+    "name": "Karel Antonín",
+    "birth_year": 1988,
+    "path": "data/people/p_karel_antonin.json"
   },
   {
     "id": "p_karel_augusta",
@@ -7169,6 +7198,12 @@
     "path": "data/people/p_karin_jurschick.json"
   },
   {
+    "id": "p_karin_kaci",
+    "name": "Karin Kaçi",
+    "birth_year": 1975,
+    "path": "data/people/p_karin_kaci.json"
+  },
+  {
     "id": "p_karin_kaper",
     "name": "Karin Kaper",
     "birth_year": 1959,
@@ -8179,6 +8214,12 @@
     "path": "data/people/p_karl_spoerri.json"
   },
   {
+    "id": "p_karl_stirner",
+    "name": "Karl Stirner",
+    "birth_year": 1970,
+    "path": "data/people/p_karl_stirner.json"
+  },
+  {
     "id": "p_karl_sundby",
     "name": "Karl Sundby",
     "birth_year": 1953,
@@ -8517,6 +8558,12 @@
     "name": "Karlina Inawati",
     "birth_year": 1966,
     "path": "data/people/p_karlina_inawati.json"
+  },
+  {
+    "id": "p_karlis_auzans",
+    "name": "Kārlis Auzāns",
+    "birth_year": 1976,
+    "path": "data/people/p_karlis_auzans.json"
   },
   {
     "id": "p_karlis_freibergs",
@@ -10147,6 +10194,12 @@
     "name": "Kasumi Yamaya",
     "birth_year": 1996,
     "path": "data/people/p_kasumi_yamaya.json"
+  },
+  {
+    "id": "p_kasun_kalhara",
+    "name": "Kasun Kalhara",
+    "birth_year": 1981,
+    "path": "data/people/p_kasun_kalhara.json"
   },
   {
     "id": "p_kat_alano",
@@ -12600,6 +12653,12 @@
     "name": "Katharina Rabl",
     "birth_year": 1993,
     "path": "data/people/p_katharina_rabl.json"
+  },
+  {
+    "id": "p_katharina_reschke",
+    "name": "Katharina Reschke",
+    "birth_year": 1967,
+    "path": "data/people/p_katharina_reschke.json"
   },
   {
     "id": "p_katharina_rivilis",
@@ -15691,6 +15750,11 @@
     "name": "Kaushik Sen",
     "birth_year": 1968,
     "path": "data/people/p_kaushik_sen.json"
+  },
+  {
+    "id": "p_kav_sandhu",
+    "name": "Kav Sandhu",
+    "path": "data/people/p_kav_sandhu.json"
   },
   {
     "id": "p_kavalam_narayana_panicker",
@@ -19878,6 +19942,12 @@
     "path": "data/people/p_ken_boothe.json"
   },
   {
+    "id": "p_ken_bruen",
+    "name": "Ken Bruen",
+    "birth_year": 1951,
+    "path": "data/people/p_ken_bruen.json"
+  },
+  {
     "id": "p_ken_burns",
     "name": "Ken Burns",
     "birth_year": 1953,
@@ -21539,6 +21609,12 @@
     "path": "data/people/p_kenny_baker.json"
   },
   {
+    "id": "p_kenny_barron",
+    "name": "Kenny Barron",
+    "birth_year": 1943,
+    "path": "data/people/p_kenny_barron.json"
+  },
+  {
     "id": "p_kenny_basumatary",
     "name": "Kenny Basumatary",
     "birth_year": 1980,
@@ -22490,6 +22566,12 @@
     "path": "data/people/p_keremcem.json"
   },
   {
+    "id": "p_keren_ann",
+    "name": "Keren Ann",
+    "birth_year": 1974,
+    "path": "data/people/p_keren_ann.json"
+  },
+  {
     "id": "p_keren_atzmon",
     "name": "Keren Atzmon",
     "path": "data/people/p_keren_atzmon.json"
@@ -22785,6 +22867,12 @@
     "name": "Kerry Mills",
     "birth_year": 1869,
     "path": "data/people/p_kerry_mills.json"
+  },
+  {
+    "id": "p_kerry_muzzey",
+    "name": "Kerry Muzzey",
+    "birth_year": 1970,
+    "path": "data/people/p_kerry_muzzey.json"
   },
   {
     "id": "p_kerry_norton",
@@ -24008,6 +24096,12 @@
     "name": "Kevin Hood",
     "birth_year": 1900,
     "path": "data/people/p_kevin_hood.json"
+  },
+  {
+    "id": "p_kevin_hoover",
+    "name": "Kevin Hoover",
+    "birth_year": 1955,
+    "path": "data/people/p_kevin_hoover.json"
   },
   {
     "id": "p_kevin_howarth",
@@ -26932,6 +27026,12 @@
     "path": "data/people/p_kiko_stella.json"
   },
   {
+    "id": "p_kiko_veneno",
+    "name": "Kiko Veneno",
+    "birth_year": 1952,
+    "path": "data/people/p_kiko_veneno.json"
+  },
+  {
     "id": "p_kikumi_yamagishi",
     "name": "Kikumi Yamagishi",
     "path": "data/people/p_kikumi_yamagishi.json"
@@ -28975,6 +29075,12 @@
     "name": "Kim Ki-rim",
     "birth_year": 1908,
     "path": "data/people/p_kim_kirim.json"
+  },
+  {
+    "id": "p_kim_kiyoung",
+    "name": "Kim Ki-young",
+    "birth_year": 1919,
+    "path": "data/people/p_kim_kiyoung.json"
   },
   {
     "id": "p_kim_kkotbi",
@@ -34812,6 +34918,12 @@
     "path": "data/people/p_koel_purie.json"
   },
   {
+    "id": "p_koen_buyse",
+    "name": "Koen Buyse",
+    "birth_year": 1977,
+    "path": "data/people/p_koen_buyse.json"
+  },
+  {
     "id": "p_koen_crucke",
     "name": "Koen Crucke",
     "birth_year": 1952,
@@ -35604,6 +35716,12 @@
     "name": "Koldo Zuazua",
     "birth_year": 1970,
     "path": "data/people/p_koldo_zuazua.json"
+  },
+  {
+    "id": "p_kolja_erdmann",
+    "name": "Kolja Erdmann",
+    "birth_year": 1980,
+    "path": "data/people/p_kolja_erdmann.json"
   },
   {
     "id": "p_kolja_malik",
@@ -39273,6 +39391,12 @@
     "path": "data/people/p_kristina_madajova.json"
   },
   {
+    "id": "p_kristina_magdalena_hen",
+    "name": "Kristina Magdalena Hen",
+    "birth_year": 1977,
+    "path": "data/people/p_kristina_magdalena_hen.json"
+  },
+  {
     "id": "p_kristina_mecko",
     "name": "Kristína Mečko",
     "birth_year": 1989,
@@ -41114,6 +41238,12 @@
     "path": "data/people/p_ksenya_basha.json"
   },
   {
+    "id": "p_ksenya_stepanycheva",
+    "name": "Ksenya Stepanycheva",
+    "birth_year": 1978,
+    "path": "data/people/p_ksenya_stepanycheva.json"
+  },
+  {
     "id": "p_kshitee_jog",
     "name": "Kshitee Jog",
     "birth_year": 1982,
@@ -41404,6 +41534,12 @@
     "id": "p_kulwinder_billa",
     "name": "Kulwinder Billa",
     "path": "data/people/p_kulwinder_billa.json"
+  },
+  {
+    "id": "p_kumaar",
+    "name": "Kumaar",
+    "birth_year": 1900,
+    "path": "data/people/p_kumaar.json"
   },
   {
     "id": "p_kumail_nanjiani",
