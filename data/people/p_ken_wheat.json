@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_wheat",
+  "name": "Ken Wheat",
+  "external_ids": {
+    "wikidata": "Q6388687",
+    "imdb": "nm0003117"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
