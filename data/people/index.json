@@ -2546,6 +2546,12 @@
     "path": "data/people/p_kallam_anji_reddy.json"
   },
   {
+    "id": "p_kalle_baccman",
+    "name": "Kalle Bäccman",
+    "birth_year": 1972,
+    "path": "data/people/p_kalle_baccman.json"
+  },
+  {
     "id": "p_kalle_by",
     "name": "Kalle Øby",
     "birth_year": 1946,
@@ -7533,6 +7539,11 @@
     "path": "data/people/p_karina_dali.json"
   },
   {
+    "id": "p_karina_dam",
+    "name": "Karina Dam",
+    "path": "data/people/p_karina_dam.json"
+  },
+  {
     "id": "p_karina_fallenstein",
     "name": "Karina Fallenstein",
     "birth_year": 1960,
@@ -7992,6 +8003,12 @@
     "path": "data/people/p_karl_francis.json"
   },
   {
+    "id": "p_karl_frid",
+    "name": "Karl Frid",
+    "birth_year": 1979,
+    "path": "data/people/p_karl_frid.json"
+  },
+  {
     "id": "p_karl_friedrich",
     "name": "Karl Friedrich",
     "birth_year": 1929,
@@ -8247,6 +8264,12 @@
     "name": "Karl Roy",
     "birth_year": 1968,
     "path": "data/people/p_karl_roy.json"
+  },
+  {
+    "id": "p_karl_saks",
+    "name": "Karl Saks",
+    "birth_year": 1984,
+    "path": "data/people/p_karl_saks.json"
   },
   {
     "id": "p_karl_sarafidis",
@@ -8558,6 +8581,12 @@
     "name": "Karl-Fred Müller",
     "birth_year": 1958,
     "path": "data/people/p_karlfred_muller.json"
+  },
+  {
+    "id": "p_karlfriedrich_konig",
+    "name": "Karl-Friedrich König",
+    "birth_year": 1982,
+    "path": "data/people/p_karlfriedrich_konig.json"
   },
   {
     "id": "p_karlheinz_bohm",
@@ -11681,6 +11710,11 @@
     "path": "data/people/p_kate_norby.json"
   },
   {
+    "id": "p_kate_nowlin",
+    "name": "Kate Nowlin",
+    "path": "data/people/p_kate_nowlin.json"
+  },
+  {
     "id": "p_kate_ocallaghan",
     "name": "Kate O'Callaghan",
     "path": "data/people/p_kate_ocallaghan.json"
@@ -13652,6 +13686,12 @@
     "name": "Kathrine Thorborg Johansen",
     "birth_year": 1989,
     "path": "data/people/p_kathrine_thorborg_johansen.json"
+  },
+  {
+    "id": "p_kathrine_valen_zeiner",
+    "name": "Kathrine Valen Zeiner",
+    "birth_year": 1975,
+    "path": "data/people/p_kathrine_valen_zeiner.json"
   },
   {
     "id": "p_kathrine_windfeld",
@@ -17128,6 +17168,11 @@
     "path": "data/people/p_kazumasa_hashimoto.json"
   },
   {
+    "id": "p_kazumi_tateishi",
+    "name": "Kazumi Tateishi",
+    "path": "data/people/p_kazumi_tateishi.json"
+  },
+  {
     "id": "p_kazunari_ninomiya",
     "name": "Kazunari Ninomiya",
     "birth_year": 1983,
@@ -17954,6 +17999,12 @@
     "path": "data/people/p_kei_tani.json"
   },
   {
+    "id": "p_kei_watanabe",
+    "name": "Kei Watanabe",
+    "birth_year": 1976,
+    "path": "data/people/p_kei_watanabe.json"
+  },
+  {
     "id": "p_kei_yamamoto",
     "name": "Kei Yamamoto",
     "birth_year": 1940,
@@ -18329,6 +18380,12 @@
     "name": "Keisuke Koide",
     "birth_year": 1984,
     "path": "data/people/p_keisuke_koide.json"
+  },
+  {
+    "id": "p_keisuke_makino",
+    "name": "Keisuke Makino",
+    "birth_year": 1979,
+    "path": "data/people/p_keisuke_makino.json"
   },
   {
     "id": "p_keisuke_shibasaki",
@@ -21482,6 +21539,11 @@
     "path": "data/people/p_kenneth_carmohn.json"
   },
   {
+    "id": "p_kenneth_carrera_sanchez",
+    "name": "Kenneth Carrera Sánchez",
+    "path": "data/people/p_kenneth_carrera_sanchez.json"
+  },
+  {
     "id": "p_kenneth_chamitoff",
     "name": "Kenneth Chamitoff",
     "path": "data/people/p_kenneth_chamitoff.json"
@@ -24571,6 +24633,11 @@
     "path": "data/people/p_kevin_kline.json"
   },
   {
+    "id": "p_kevin_knepper",
+    "name": "Kévin Knepper",
+    "path": "data/people/p_kevin_knepper.json"
+  },
+  {
     "id": "p_kevin_knoblock",
     "name": "Kevin Knoblock",
     "path": "data/people/p_kevin_knoblock.json"
@@ -26786,6 +26853,12 @@
     "path": "data/people/p_kid_jamaica.json"
   },
   {
+    "id": "p_kid_koala",
+    "name": "Kid Koala",
+    "birth_year": 1974,
+    "path": "data/people/p_kid_koala.json"
+  },
+  {
     "id": "p_kid_loco",
     "name": "Kid Loco",
     "birth_year": 1964,
@@ -27501,6 +27574,11 @@
     "id": "p_kim_ayden",
     "name": "Kim Ayden",
     "path": "data/people/p_kim_ayden.json"
+  },
+  {
+    "id": "p_kim_bada",
+    "name": "Kim Ba-da",
+    "path": "data/people/p_kim_bada.json"
   },
   {
     "id": "p_kim_basinger",
@@ -32466,6 +32544,12 @@
     "path": "data/people/p_kirill_nagiev.json"
   },
   {
+    "id": "p_kirill_nemolyayev",
+    "name": "Kirill Nemolyayev",
+    "birth_year": 1969,
+    "path": "data/people/p_kirill_nemolyayev.json"
+  },
+  {
     "id": "p_kirill_nikiforov",
     "name": "Kirill Nikiforov",
     "path": "data/people/p_kirill_nikiforov.json"
@@ -34362,6 +34446,12 @@
     "path": "data/people/p_klaus_janek.json"
   },
   {
+    "id": "p_klaus_jorg_schonmetzler",
+    "name": "Klaus Jörg Schönmetzler",
+    "birth_year": 1949,
+    "path": "data/people/p_klaus_jorg_schonmetzler.json"
+  },
+  {
     "id": "p_klaus_kinkel",
     "name": "Klaus Kinkel",
     "birth_year": 1936,
@@ -34384,6 +34474,12 @@
     "name": "Klaus Krämer",
     "birth_year": 1964,
     "path": "data/people/p_klaus_kramer.json"
+  },
+  {
+    "id": "p_klaus_lang",
+    "name": "Klaus Lang",
+    "birth_year": 1971,
+    "path": "data/people/p_klaus_lang.json"
   },
   {
     "id": "p_klaus_lemke",
@@ -36978,6 +37074,12 @@
     "path": "data/people/p_kordula_stropnicka.json"
   },
   {
+    "id": "p_kore",
+    "name": "Kore",
+    "birth_year": 1977,
+    "path": "data/people/p_kore.json"
+  },
+  {
     "id": "p_korhan_abay",
     "name": "Korhan Abay",
     "birth_year": 1953,
@@ -37592,6 +37694,12 @@
     "id": "p_kottachi",
     "name": "Kottachi",
     "path": "data/people/p_kottachi.json"
+  },
+  {
+    "id": "p_kottarashky",
+    "name": "Kottarashky",
+    "birth_year": 1979,
+    "path": "data/people/p_kottarashky.json"
   },
   {
     "id": "p_kottayam_nazeer",
@@ -40416,6 +40524,12 @@
     "path": "data/people/p_kristopher_logan.json"
   },
   {
+    "id": "p_kristopher_pooley",
+    "name": "Kristopher Pooley",
+    "birth_year": 1976,
+    "path": "data/people/p_kristopher_pooley.json"
+  },
+  {
     "id": "p_kristopher_turner",
     "name": "Kristopher Turner",
     "birth_year": 1980,
@@ -40998,6 +41112,12 @@
     "id": "p_krystof_lubomirsky",
     "name": "Kryštof Lubomírský",
     "path": "data/people/p_krystof_lubomirsky.json"
+  },
+  {
+    "id": "p_krystof_marek",
+    "name": "Kryštof Marek",
+    "birth_year": 1967,
+    "path": "data/people/p_krystof_marek.json"
   },
   {
     "id": "p_krystof_masek",
@@ -44595,6 +44715,12 @@
     "id": "p_kyrylo_tibayev",
     "name": "Kyrylo Tibayev",
     "path": "data/people/p_kyrylo_tibayev.json"
+  },
+  {
+    "id": "p_kyteman",
+    "name": "Kyteman",
+    "birth_year": 1986,
+    "path": "data/people/p_kyteman.json"
   },
   {
     "id": "p_kyujitsu_kacho",
