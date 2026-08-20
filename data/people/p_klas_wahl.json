@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_klas_wahl",
+  "name": "Klas Wahl",
+  "external_ids": {
+    "wikidata": "Q115331402",
+    "imdb": "nm0046660"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
