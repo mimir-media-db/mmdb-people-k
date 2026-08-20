@@ -74,6 +74,12 @@
     "path": "data/people/p_k_callan.json"
   },
   {
+    "id": "p_k_chakravarthy",
+    "name": "K. Chakravarthy",
+    "birth_year": 1936,
+    "path": "data/people/p_k_chakravarthy.json"
+  },
+  {
     "id": "p_k_chandru",
     "name": "K. Chandru",
     "path": "data/people/p_k_chandru.json"
@@ -1216,6 +1222,12 @@
     "id": "p_kai_hattermann",
     "name": "Kai Hattermann",
     "path": "data/people/p_kai_hattermann.json"
+  },
+  {
+    "id": "p_kai_hensel",
+    "name": "Kai Hensel",
+    "birth_year": 1964,
+    "path": "data/people/p_kai_hensel.json"
   },
   {
     "id": "p_kai_hermann",
@@ -7879,6 +7891,12 @@
     "path": "data/people/p_karl_jason.json"
   },
   {
+    "id": "p_karl_jenkins",
+    "name": "Karl Jenkins",
+    "birth_year": 1944,
+    "path": "data/people/p_karl_jenkins.json"
+  },
+  {
     "id": "p_karl_johan_larsson",
     "name": "Karl Johan Larsson",
     "birth_year": 1968,
@@ -9621,6 +9639,12 @@
     "path": "data/people/p_kasem_hoxha.json"
   },
   {
+    "id": "p_kaseo",
+    "name": "Kase.O",
+    "birth_year": 1980,
+    "path": "data/people/p_kaseo.json"
+  },
+  {
     "id": "p_kaseran_pillay",
     "name": "Kaseran Pillay",
     "birth_year": 1976,
@@ -10958,6 +10982,12 @@
     "name": "Kate del Castillo",
     "birth_year": 1972,
     "path": "data/people/p_kate_del_castillo.json"
+  },
+  {
+    "id": "p_kate_dicamillo",
+    "name": "Kate DiCamillo",
+    "birth_year": 1964,
+    "path": "data/people/p_kate_dicamillo.json"
   },
   {
     "id": "p_kate_dickie",
@@ -13203,6 +13233,11 @@
     "name": "Kathrin Beck",
     "birth_year": 1966,
     "path": "data/people/p_kathrin_beck.json"
+  },
+  {
+    "id": "p_kathrin_brunnerschwer",
+    "name": "Kathrin Brunner-Schwer",
+    "path": "data/people/p_kathrin_brunnerschwer.json"
   },
   {
     "id": "p_kathrin_hartmann",
@@ -16385,6 +16420,12 @@
     "path": "data/people/p_kazik_radwanski.json"
   },
   {
+    "id": "p_kazik_staszewski",
+    "name": "Kazik Staszewski",
+    "birth_year": 1963,
+    "path": "data/people/p_kazik_staszewski.json"
+  },
+  {
     "id": "p_kazim_abdullayev",
     "name": "Kazim Abdullayev",
     "birth_year": 1953,
@@ -16504,10 +16545,22 @@
     "path": "data/people/p_kazue_tsunogae.json"
   },
   {
+    "id": "p_kazuhiko_ban",
+    "name": "Kazuhiko Ban",
+    "birth_year": 1954,
+    "path": "data/people/p_kazuhiko_ban.json"
+  },
+  {
     "id": "p_kazuhiko_kanayama",
     "name": "Kazuhiko Kanayama",
     "birth_year": 1967,
     "path": "data/people/p_kazuhiko_kanayama.json"
+  },
+  {
+    "id": "p_kazuhiko_kato",
+    "name": "Kazuhiko Katō",
+    "birth_year": 1947,
+    "path": "data/people/p_kazuhiko_kato.json"
   },
   {
     "id": "p_kazuhiko_nishimura",
@@ -16608,6 +16661,12 @@
     "name": "Kazuki Maehara",
     "birth_year": 1973,
     "path": "data/people/p_kazuki_maehara.json"
+  },
+  {
+    "id": "p_kazuki_nakashima",
+    "name": "Kazuki Nakashima",
+    "birth_year": 1959,
+    "path": "data/people/p_kazuki_nakashima.json"
   },
   {
     "id": "p_kazuki_namioka",
@@ -19442,6 +19501,12 @@
     "name": "Kelvin Yu",
     "birth_year": 1978,
     "path": "data/people/p_kelvin_yu.json"
+  },
+  {
+    "id": "p_kelvis_ochoa",
+    "name": "Kelvis Ochoa",
+    "birth_year": 1969,
+    "path": "data/people/p_kelvis_ochoa.json"
   },
   {
     "id": "p_kemal_basar",
@@ -25251,6 +25316,12 @@
     "path": "data/people/p_khalid_ben_chegra.json"
   },
   {
+    "id": "p_khalid_boudou",
+    "name": "Khalid Boudou",
+    "birth_year": 1974,
+    "path": "data/people/p_khalid_boudou.json"
+  },
+  {
     "id": "p_khalid_gill",
     "name": "Khalid Gill",
     "birth_year": 1958,
@@ -26474,6 +26545,11 @@
     "name": "Kiki Farrel",
     "birth_year": 1986,
     "path": "data/people/p_kiki_farrel.json"
+  },
+  {
+    "id": "p_kiki_ferrer",
+    "name": "Kiki Ferrer",
+    "path": "data/people/p_kiki_ferrer.json"
   },
   {
     "id": "p_kiki_goshay",
@@ -27712,6 +27788,11 @@
     "id": "p_kim_hocheol",
     "name": "Kim Ho-cheol",
     "path": "data/people/p_kim_hocheol.json"
+  },
+  {
+    "id": "p_kim_hoh_wong",
+    "name": "Kim Hoh Wong",
+    "path": "data/people/p_kim_hoh_wong.json"
   },
   {
     "id": "p_kim_hojung",
@@ -33274,6 +33355,12 @@
     "path": "data/people/p_klarka_mrackova.json"
   },
   {
+    "id": "p_klas_abrahamsson",
+    "name": "Klas Abrahamsson",
+    "birth_year": 1969,
+    "path": "data/people/p_klas_abrahamsson.json"
+  },
+  {
     "id": "p_klas_ekman",
     "name": "Klas Ekman",
     "birth_year": 1975,
@@ -33632,6 +33719,12 @@
     "name": "Klaus Salge",
     "birth_year": 1940,
     "path": "data/people/p_klaus_salge.json"
+  },
+  {
+    "id": "p_klaus_schadelin",
+    "name": "Klaus Schädelin",
+    "birth_year": 1918,
+    "path": "data/people/p_klaus_schadelin.json"
   },
   {
     "id": "p_klaus_scheidsteger",
@@ -35674,6 +35767,12 @@
     "path": "data/people/p_konstantin_shavlovsky.json"
   },
   {
+    "id": "p_konstantin_shustaryov",
+    "name": "Konstantin Shustaryov",
+    "birth_year": 1965,
+    "path": "data/people/p_konstantin_shustaryov.json"
+  },
+  {
     "id": "p_konstantin_smirnov",
     "name": "Konstantin Smirnov",
     "birth_year": 1982,
@@ -36518,6 +36617,12 @@
     "path": "data/people/p_koto_nagata.json"
   },
   {
+    "id": "p_kotobuki_shiriagari",
+    "name": "Kotobuki Shiriagari",
+    "birth_year": 1957,
+    "path": "data/people/p_kotobuki_shiriagari.json"
+  },
+  {
     "id": "p_kotoha_hiroyama",
     "name": "Kotoha Hiroyama",
     "birth_year": 1984,
@@ -36804,6 +36909,12 @@
     "name": "Kraantje Pappie",
     "birth_year": 1986,
     "path": "data/people/p_kraantje_pappie.json"
+  },
+  {
+    "id": "p_krac",
+    "name": "Kıraç",
+    "birth_year": 1972,
+    "path": "data/people/p_krac.json"
   },
   {
     "id": "p_kraisorn_saenganun",
@@ -38221,6 +38332,12 @@
     "id": "p_kristin_amundsen",
     "name": "Kristin Amundsen",
     "path": "data/people/p_kristin_amundsen.json"
+  },
+  {
+    "id": "p_kristin_asbjrnsen",
+    "name": "Kristin Asbjørnsen",
+    "birth_year": 1971,
+    "path": "data/people/p_kristin_asbjrnsen.json"
   },
   {
     "id": "p_kristin_bauer_van_straten",
@@ -43350,6 +43467,12 @@
     "name": "Kyūsaku Shimada",
     "birth_year": 1955,
     "path": "data/people/p_kyusaku_shimada.json"
+  },
+  {
+    "id": "p_kyuwon_kim",
+    "name": "Kyu-Won Kim",
+    "birth_year": 1951,
+    "path": "data/people/p_kyuwon_kim.json"
   },
   {
     "id": "p_kyuya_nakagawa",
