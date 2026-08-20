@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kim_carroll",
+  "name": "Kim Carroll",
+  "external_ids": {
+    "wikidata": "Q6408436",
+    "imdb": "nm2316589"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
