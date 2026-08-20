@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kafka_asagiri",
+  "name": "Kafka Asagiri",
+  "external_ids": {
+    "wikidata": "Q18700410",
+    "imdb": "nm9671774"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
