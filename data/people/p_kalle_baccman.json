@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kalle_baccman",
+  "name": "Kalle Bäccman",
+  "external_ids": {
+    "wikidata": "Q19060123",
+    "imdb": "nm3363816"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
