@@ -410,6 +410,12 @@
     "path": "data/people/p_k_shankar.json"
   },
   {
+    "id": "p_k_shivaram_karanth",
+    "name": "K. Shivaram Karanth",
+    "birth_year": 1902,
+    "path": "data/people/p_k_shivaram_karanth.json"
+  },
+  {
     "id": "p_k_subash",
     "name": "K. Subash",
     "birth_year": 1958,
@@ -5290,6 +5296,12 @@
     "path": "data/people/p_karel_freund.json"
   },
   {
+    "id": "p_karel_glastra_van_loon",
+    "name": "Karel Glastra van Loon",
+    "birth_year": 1962,
+    "path": "data/people/p_karel_glastra_van_loon.json"
+  },
+  {
     "id": "p_karel_gott",
     "name": "Karel Gott",
     "birth_year": 1939,
@@ -7236,6 +7248,11 @@
     "name": "Karin Trolle",
     "birth_year": 1953,
     "path": "data/people/p_karin_trolle.json"
+  },
+  {
+    "id": "p_karin_turesson",
+    "name": "Karin Turesson",
+    "path": "data/people/p_karin_turesson.json"
   },
   {
     "id": "p_karin_ugowski",
@@ -11553,6 +11570,12 @@
     "path": "data/people/p_katelynn_e_newberry.json"
   },
   {
+    "id": "p_katerina_bei",
+    "name": "Katerina Bei",
+    "birth_year": 1961,
+    "path": "data/people/p_katerina_bei.json"
+  },
+  {
     "id": "p_katerina_blahova",
     "name": "Kateřina Bláhová",
     "birth_year": 1996,
@@ -12724,6 +12747,12 @@
     "path": "data/people/p_katherine_fairfax_wright.json"
   },
   {
+    "id": "p_katherine_fugate",
+    "name": "Katherine Fugate",
+    "birth_year": 1965,
+    "path": "data/people/p_katherine_fugate.json"
+  },
+  {
     "id": "p_katherine_heigl",
     "name": "Katherine Heigl",
     "birth_year": 1978,
@@ -13513,6 +13542,12 @@
     "name": "Kathy Lamkin",
     "birth_year": 1947,
     "path": "data/people/p_kathy_lamkin.json"
+  },
+  {
+    "id": "p_kathy_mackel",
+    "name": "Kathy Mackel",
+    "birth_year": 1949,
+    "path": "data/people/p_kathy_mackel.json"
   },
   {
     "id": "p_kathy_najimy",
@@ -15401,6 +15436,12 @@
     "path": "data/people/p_kausha_rach.json"
   },
   {
+    "id": "p_kaushal_inamdar",
+    "name": "Kaushal Inamdar",
+    "birth_year": 1971,
+    "path": "data/people/p_kaushal_inamdar.json"
+  },
+  {
     "id": "p_kaushambi_bhatt",
     "name": "Kaushambi Bhatt",
     "birth_year": 1991,
@@ -16671,6 +16712,12 @@
     "path": "data/people/p_kazuo_hayashi.json"
   },
   {
+    "id": "p_kazuo_ishiguro",
+    "name": "Kazuo Ishiguro",
+    "birth_year": 1954,
+    "path": "data/people/p_kazuo_ishiguro.json"
+  },
+  {
     "id": "p_kazuo_kasahara",
     "name": "Kazuo Kasahara",
     "birth_year": 1927,
@@ -17261,6 +17308,12 @@
     "path": "data/people/p_kees_schaap.json"
   },
   {
+    "id": "p_kees_van_beijnum",
+    "name": "Kees van Beijnum",
+    "birth_year": 1954,
+    "path": "data/people/p_kees_van_beijnum.json"
+  },
+  {
     "id": "p_kees_van_nieuwkerk",
     "name": "Kees van Nieuwkerk",
     "birth_year": 1988,
@@ -17413,6 +17466,12 @@
     "name": "Kei Yamamoto",
     "birth_year": 1940,
     "path": "data/people/p_kei_yamamoto.json"
+  },
+  {
+    "id": "p_keigo_higashino",
+    "name": "Keigo Higashino",
+    "birth_year": 1958,
+    "path": "data/people/p_keigo_higashino.json"
   },
   {
     "id": "p_keigo_kasuya",
@@ -20182,6 +20241,12 @@
     "path": "data/people/p_ken_will_music.json"
   },
   {
+    "id": "p_ken_williams",
+    "name": "Ken Williams",
+    "birth_year": 1951,
+    "path": "data/people/p_ken_williams.json"
+  },
+  {
     "id": "p_ken_wong_hap_hei",
     "name": "Ken Wong Hap Hei",
     "birth_year": 1967,
@@ -22249,6 +22314,12 @@
     "path": "data/people/p_keris_hope_hill.json"
   },
   {
+    "id": "p_kerkko_koskinen",
+    "name": "Kerkko Koskinen",
+    "birth_year": 1973,
+    "path": "data/people/p_kerkko_koskinen.json"
+  },
+  {
     "id": "p_kern_saxton",
     "name": "Kern Saxton",
     "path": "data/people/p_kern_saxton.json"
@@ -23559,6 +23630,12 @@
     "path": "data/people/p_kevin_hart.json"
   },
   {
+    "id": "p_kevin_haskins",
+    "name": "Kevin Haskins",
+    "birth_year": 1960,
+    "path": "data/people/p_kevin_haskins.json"
+  },
+  {
     "id": "p_kevin_heffernan",
     "name": "Kevin Heffernan",
     "birth_year": 1968,
@@ -24380,6 +24457,12 @@
     "name": "Kevin Sheppard",
     "birth_year": 1979,
     "path": "data/people/p_kevin_sheppard.json"
+  },
+  {
+    "id": "p_kevin_shields",
+    "name": "Kevin Shields",
+    "birth_year": 1963,
+    "path": "data/people/p_kevin_shields.json"
   },
   {
     "id": "p_kevin_shinick",
@@ -31393,6 +31476,12 @@
     "path": "data/people/p_kiril_gravcev.json"
   },
   {
+    "id": "p_kiril_ilievski",
+    "name": "Kiril Ilievski",
+    "birth_year": 1955,
+    "path": "data/people/p_kiril_ilievski.json"
+  },
+  {
     "id": "p_kiril_kavadarkov",
     "name": "Kiril Kavadarkov",
     "birth_year": 1943,
@@ -31909,6 +31998,12 @@
     "name": "Kirsten Tan",
     "birth_year": 1980,
     "path": "data/people/p_kirsten_tan.json"
+  },
+  {
+    "id": "p_kirsten_thorup",
+    "name": "Kirsten Thorup",
+    "birth_year": 1942,
+    "path": "data/people/p_kirsten_thorup.json"
   },
   {
     "id": "p_kirsten_van_dissel",
@@ -32766,6 +32861,11 @@
     "path": "data/people/p_klaas_heuferumlauf.json"
   },
   {
+    "id": "p_klaas_ten_holt",
+    "name": "Klaas ten Holt",
+    "path": "data/people/p_klaas_ten_holt.json"
+  },
+  {
     "id": "p_klaas_van_der_eerden",
     "name": "Klaas van der Eerden",
     "birth_year": 1975,
@@ -33527,6 +33627,12 @@
     "name": "Klaus Weingarten",
     "birth_year": 1967,
     "path": "data/people/p_klaus_weingarten.json"
+  },
+  {
+    "id": "p_klaus_wiese",
+    "name": "Klaus Wiese",
+    "birth_year": 1942,
+    "path": "data/people/p_klaus_wiese.json"
   },
   {
     "id": "p_klaus_wildbolz",
@@ -36123,6 +36229,12 @@
     "path": "data/people/p_kosuke_kujirai.json"
   },
   {
+    "id": "p_kosuke_mukai",
+    "name": "Kōsuke Mukai",
+    "birth_year": 1977,
+    "path": "data/people/p_kosuke_mukai.json"
+  },
+  {
     "id": "p_kosuke_oshida",
     "name": "Kōsuke Oshida",
     "birth_year": 1968,
@@ -36293,6 +36405,12 @@
     "name": "Kothanda Ramaiah",
     "birth_year": 1952,
     "path": "data/people/p_kothanda_ramaiah.json"
+  },
+  {
+    "id": "p_kotiganahalli_ramaiah",
+    "name": "Kotiganahalli Ramaiah",
+    "birth_year": 1953,
+    "path": "data/people/p_kotiganahalli_ramaiah.json"
   },
   {
     "id": "p_koto_kawaguchi",
@@ -40416,6 +40534,12 @@
     "name": "Kujtim Çashku",
     "birth_year": 1950,
     "path": "data/people/p_kujtim_cashku.json"
+  },
+  {
+    "id": "p_kujtim_laro",
+    "name": "Kujtim Laro",
+    "birth_year": 1947,
+    "path": "data/people/p_kujtim_laro.json"
   },
   {
     "id": "p_kukku_surendran",
