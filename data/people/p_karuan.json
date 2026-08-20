@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karuan",
+  "name": "Karuan",
+  "external_ids": {
+    "wikidata": "Q20164697",
+    "imdb": "nm2446128"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
