@@ -2413,6 +2413,12 @@
     "path": "data/people/p_kalidas_jayaram.json"
   },
   {
+    "id": "p_kalika_prasad_bhattacharya",
+    "name": "Kalika Prasad Bhattacharya",
+    "birth_year": 1971,
+    "path": "data/people/p_kalika_prasad_bhattacharya.json"
+  },
+  {
     "id": "p_kalimuthu",
     "name": "Kalimuthu",
     "path": "data/people/p_kalimuthu.json"
@@ -3552,6 +3558,11 @@
     "name": "Kamlesh Sawant",
     "birth_year": 1974,
     "path": "data/people/p_kamlesh_sawant.json"
+  },
+  {
+    "id": "p_kamna_chandra",
+    "name": "Kamna Chandra",
+    "path": "data/people/p_kamna_chandra.json"
   },
   {
     "id": "p_kamna_jethmalani",
@@ -6955,6 +6966,12 @@
     "path": "data/people/p_karim_youssef_joe.json"
   },
   {
+    "id": "p_karim_ziad",
+    "name": "Karim Ziad",
+    "birth_year": 1965,
+    "path": "data/people/p_karim_ziad.json"
+  },
+  {
     "id": "p_karima_adebibe",
     "name": "Karima Adebibe",
     "birth_year": 1985,
@@ -8861,6 +8878,11 @@
     "id": "p_karol_podolinsky",
     "name": "Karol Podolinský",
     "path": "data/people/p_karol_podolinsky.json"
+  },
+  {
+    "id": "p_karol_rakowski",
+    "name": "Karol Rakowski",
+    "path": "data/people/p_karol_rakowski.json"
   },
   {
     "id": "p_karol_sevill",
@@ -14793,6 +14815,12 @@
     "path": "data/people/p_katja_kuttner.json"
   },
   {
+    "id": "p_katja_lappi",
+    "name": "Katja Lappi",
+    "birth_year": 1978,
+    "path": "data/people/p_katja_lappi.json"
+  },
+  {
     "id": "p_katja_lechthaler",
     "name": "Katja Lechthaler",
     "birth_year": 1970,
@@ -16409,6 +16437,11 @@
     "path": "data/people/p_kaye_abad.json"
   },
   {
+    "id": "p_kaye_ann_williams",
+    "name": "Kaye Ann Williams",
+    "path": "data/people/p_kaye_ann_williams.json"
+  },
+  {
     "id": "p_kaye_ballard",
     "name": "Kaye Ballard",
     "birth_year": 1925,
@@ -17773,6 +17806,12 @@
     "name": "Keerthi Reddy",
     "birth_year": 1978,
     "path": "data/people/p_keerthi_reddy.json"
+  },
+  {
+    "id": "p_keerthi_sagathia",
+    "name": "Keerthi Sagathia",
+    "birth_year": 1979,
+    "path": "data/people/p_keerthi_sagathia.json"
   },
   {
     "id": "p_keerthy_suresh",
@@ -21698,6 +21737,11 @@
     "path": "data/people/p_kenneth_lay.json"
   },
   {
+    "id": "p_kenneth_lemm",
+    "name": "Kenneth Lemm",
+    "path": "data/people/p_kenneth_lemm.json"
+  },
+  {
     "id": "p_kenneth_lipper",
     "name": "Kenneth Lipper",
     "birth_year": 1941,
@@ -22652,6 +22696,12 @@
     "name": "Kenya Cytlaly Cuevas Fuentes",
     "birth_year": 1983,
     "path": "data/people/p_kenya_cytlaly_cuevas_fuentes.json"
+  },
+  {
+    "id": "p_kenya_hirata",
+    "name": "Ken'ya Hirata",
+    "birth_year": 1972,
+    "path": "data/people/p_kenya_hirata.json"
   },
   {
     "id": "p_kenya_marquez",
@@ -24072,6 +24122,12 @@
     "name": "Kevin Corrigan",
     "birth_year": 1969,
     "path": "data/people/p_kevin_corrigan.json"
+  },
+  {
+    "id": "p_kevin_costello",
+    "name": "Kevin Costello",
+    "birth_year": 1976,
+    "path": "data/people/p_kevin_costello.json"
   },
   {
     "id": "p_kevin_costner",
@@ -26529,6 +26585,11 @@
     "path": "data/people/p_khuat_akhmetov.json"
   },
   {
+    "id": "p_khumariyaan",
+    "name": "Khumariyaan",
+    "path": "data/people/p_khumariyaan.json"
+  },
+  {
     "id": "p_khumbulani_kay_sibiya",
     "name": "Khumbulani Kay Sibiya",
     "path": "data/people/p_khumbulani_kay_sibiya.json"
@@ -26869,6 +26930,12 @@
     "name": "Kid Memphis",
     "birth_year": 1971,
     "path": "data/people/p_kid_memphis.json"
+  },
+  {
+    "id": "p_kid_twist",
+    "name": "Kid Twist",
+    "birth_year": 1986,
+    "path": "data/people/p_kid_twist.json"
   },
   {
     "id": "p_kida_khodr_ramadan",
@@ -36125,6 +36192,11 @@
     "path": "data/people/p_kola_tubosun.json"
   },
   {
+    "id": "p_kolade_morakinyo",
+    "name": "Kolade Morakinyo",
+    "path": "data/people/p_kolade_morakinyo.json"
+  },
+  {
     "id": "p_kolade_segunokeowo",
     "name": "Kolade Segun-Okeowo",
     "path": "data/people/p_kolade_segunokeowo.json"
@@ -39501,6 +39573,12 @@
     "path": "data/people/p_kristin_davis.json"
   },
   {
+    "id": "p_kristin_derfler",
+    "name": "Kristin Derfler",
+    "birth_year": 1964,
+    "path": "data/people/p_kristin_derfler.json"
+  },
+  {
     "id": "p_kristin_erla_petursdottir",
     "name": "Kristín Erla Pétursdóttir",
     "path": "data/people/p_kristin_erla_petursdottir.json"
@@ -40794,6 +40872,12 @@
     "name": "Krisztina Deák",
     "birth_year": 1953,
     "path": "data/people/p_krisztina_deak.json"
+  },
+  {
+    "id": "p_krisztina_esztergalyos",
+    "name": "Krisztina Esztergályos",
+    "birth_year": 1975,
+    "path": "data/people/p_krisztina_esztergalyos.json"
   },
   {
     "id": "p_krisztina_goda",
@@ -44039,6 +44123,12 @@
     "path": "data/people/p_kyle_howard.json"
   },
   {
+    "id": "p_kyle_jarrow",
+    "name": "Kyle Jarrow",
+    "birth_year": 1979,
+    "path": "data/people/p_kyle_jarrow.json"
+  },
+  {
     "id": "p_kyle_jefferson",
     "name": "Kyle Jefferson",
     "path": "data/people/p_kyle_jefferson.json"
@@ -44514,6 +44604,12 @@
     "name": "Kyoko Hinami",
     "birth_year": 1994,
     "path": "data/people/p_kyoko_hinami.json"
+  },
+  {
+    "id": "p_kyoko_inukai",
+    "name": "Kyōko Inukai",
+    "birth_year": 1974,
+    "path": "data/people/p_kyoko_inukai.json"
   },
   {
     "id": "p_kyoko_kagawa",
