@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ken_rance",
+  "name": "Ken Rance",
+  "external_ids": {
+    "wikidata": "Q122810781",
+    "imdb": "nm0709408"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kristian_landmark",
+  "name": "Kristian Landmark",
+  "external_ids": {
+    "wikidata": "Q19378163",
+    "imdb": "nm2425233"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
