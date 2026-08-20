@@ -153,6 +153,12 @@
     "path": "data/people/p_k_k_rajeev.json"
   },
   {
+    "id": "p_k_kalyan",
+    "name": "K. Kalyan",
+    "birth_year": 1974,
+    "path": "data/people/p_k_kalyan.json"
+  },
+  {
     "id": "p_k_king",
     "name": "K. King",
     "path": "data/people/p_k_king.json"
@@ -1160,6 +1166,12 @@
     "path": "data/people/p_kai_ehlers.json"
   },
   {
+    "id": "p_kai_fischer",
+    "name": "Kai Fischer",
+    "birth_year": 1980,
+    "path": "data/people/p_kai_fischer.json"
+  },
+  {
     "id": "p_kai_fung",
     "name": "Kai Fung",
     "birth_year": 1961,
@@ -1513,6 +1525,11 @@
     "name": "Kailash Surendranath",
     "birth_year": 1900,
     "path": "data/people/p_kailash_surendranath.json"
+  },
+  {
+    "id": "p_kaili_peng",
+    "name": "Kaili Peng",
+    "path": "data/people/p_kaili_peng.json"
   },
   {
     "id": "p_kaili_thorne",
@@ -2836,6 +2853,12 @@
     "path": "data/people/p_kambiz_dirbaz.json"
   },
   {
+    "id": "p_kambiz_roshanravan",
+    "name": "Kambiz Roshan-Ravan",
+    "birth_year": 1948,
+    "path": "data/people/p_kambiz_roshanravan.json"
+  },
+  {
     "id": "p_kambuzia_partovi",
     "name": "Kambuzia Partovi",
     "birth_year": 1955,
@@ -3375,6 +3398,11 @@
     "path": "data/people/p_kamlesh_oza.json"
   },
   {
+    "id": "p_kamlesh_pandey",
+    "name": "Kamlesh Pandey",
+    "path": "data/people/p_kamlesh_pandey.json"
+  },
+  {
     "id": "p_kamlesh_sawant",
     "name": "Kamlesh Sawant",
     "birth_year": 1974,
@@ -3690,6 +3718,11 @@
     "path": "data/people/p_kancharapalem_raju.json"
   },
   {
+    "id": "p_kancheung_tsang",
+    "name": "Kan-Cheung Tsang",
+    "path": "data/people/p_kancheung_tsang.json"
+  },
+  {
     "id": "p_kanchi_kaul",
     "name": "Kanchi Kaul",
     "birth_year": 1982,
@@ -3706,6 +3739,12 @@
     "name": "Kanchi Wichmann",
     "birth_year": 1974,
     "path": "data/people/p_kanchi_wichmann.json"
+  },
+  {
+    "id": "p_kandemir_konduk",
+    "name": "Kandemir Konduk",
+    "birth_year": 1945,
+    "path": "data/people/p_kandemir_konduk.json"
   },
   {
     "id": "p_kandi_burruss",
@@ -6147,6 +6186,11 @@
     "path": "data/people/p_karen_van_parijs.json"
   },
   {
+    "id": "p_karen_walton",
+    "name": "Karen Walton",
+    "path": "data/people/p_karen_walton.json"
+  },
+  {
     "id": "p_karen_waltorp",
     "name": "Karen Waltorp",
     "path": "data/people/p_karen_waltorp.json"
@@ -8187,6 +8231,12 @@
     "path": "data/people/p_karlerik_falkentorp.json"
   },
   {
+    "id": "p_karlernst_sasse",
+    "name": "Karl-Ernst Sasse",
+    "birth_year": 1923,
+    "path": "data/people/p_karlernst_sasse.json"
+  },
+  {
     "id": "p_karley_sciortino",
     "name": "Karley Sciortino",
     "birth_year": 1985,
@@ -8232,6 +8282,12 @@
     "name": "Karlheinz Schmitt",
     "birth_year": 1969,
     "path": "data/people/p_karlheinz_schmitt.json"
+  },
+  {
+    "id": "p_karlheinz_stockhausen",
+    "name": "Karlheinz Stockhausen",
+    "birth_year": 1928,
+    "path": "data/people/p_karlheinz_stockhausen.json"
   },
   {
     "id": "p_karlheinz_vosgerau",
@@ -13737,6 +13793,11 @@
     "path": "data/people/p_katie_flynn.json"
   },
   {
+    "id": "p_katie_ford",
+    "name": "Katie Ford",
+    "path": "data/people/p_katie_ford.json"
+  },
+  {
     "id": "p_katie_found",
     "name": "Katie Found",
     "path": "data/people/p_katie_found.json"
@@ -16503,6 +16564,12 @@
     "path": "data/people/p_kazuo_hayashi.json"
   },
   {
+    "id": "p_kazuo_kasahara",
+    "name": "Kazuo Kasahara",
+    "birth_year": 1927,
+    "path": "data/people/p_kazuo_kasahara.json"
+  },
+  {
     "id": "p_kazuo_kato",
     "name": "Kazuo Katō",
     "birth_year": 1927,
@@ -17251,6 +17318,12 @@
     "name": "Keiichi Hara",
     "birth_year": 1959,
     "path": "data/people/p_keiichi_hara.json"
+  },
+  {
+    "id": "p_keiichi_hasegawa",
+    "name": "Keiichi Hasegawa",
+    "birth_year": 1962,
+    "path": "data/people/p_keiichi_hasegawa.json"
   },
   {
     "id": "p_keiichi_kobayashi",
@@ -19548,6 +19621,12 @@
     "path": "data/people/p_ken_ishiguro.json"
   },
   {
+    "id": "p_ken_ishii",
+    "name": "Ken Ishii",
+    "birth_year": 1970,
+    "path": "data/people/p_ken_ishii.json"
+  },
+  {
     "id": "p_ken_jacobs",
     "name": "Ken Jacobs",
     "birth_year": 1933,
@@ -19951,6 +20030,12 @@
     "path": "data/people/p_ken_watanabe.json"
   },
   {
+    "id": "p_ken_wheat",
+    "name": "Ken Wheat",
+    "birth_year": 1949,
+    "path": "data/people/p_ken_wheat.json"
+  },
+  {
     "id": "p_ken_will_music",
     "name": "Ken Will Music",
     "birth_year": 1984,
@@ -20273,6 +20358,12 @@
     "name": "Kenji Anan",
     "birth_year": 1962,
     "path": "data/people/p_kenji_anan.json"
+  },
+  {
+    "id": "p_kenji_aoki",
+    "name": "Kenji Aoki",
+    "birth_year": 1958,
+    "path": "data/people/p_kenji_aoki.json"
   },
   {
     "id": "p_kenji_arai",
@@ -21103,6 +21194,12 @@
     "id": "p_kenny_roller",
     "name": "Kenny Roller",
     "path": "data/people/p_kenny_roller.json"
+  },
+  {
+    "id": "p_kenny_sanders",
+    "name": "Kenny Sanders",
+    "birth_year": 1945,
+    "path": "data/people/p_kenny_sanders.json"
   },
   {
     "id": "p_kenny_saylors",
@@ -24401,6 +24498,12 @@
     "path": "data/people/p_keyvan_gharaee_nezhad.json"
   },
   {
+    "id": "p_keyvan_jahanshahi",
+    "name": "Keyvan Jahanshahi",
+    "birth_year": 1967,
+    "path": "data/people/p_keyvan_jahanshahi.json"
+  },
+  {
     "id": "p_keyvan_sheikhalishahi",
     "name": "Keyvan Sheikhalishahi",
     "birth_year": 1998,
@@ -24672,6 +24775,12 @@
     "path": "data/people/p_khaled_ghorbal.json"
   },
   {
+    "id": "p_khaled_hammad",
+    "name": "Khaled Hammad",
+    "birth_year": 1971,
+    "path": "data/people/p_khaled_hammad.json"
+  },
+  {
     "id": "p_khaled_hosseini",
     "name": "Khaled Hosseini",
     "birth_year": 1965,
@@ -24896,6 +25005,12 @@
     "name": "Khalil Bendib",
     "birth_year": 1999,
     "path": "data/people/p_khalil_bendib.json"
+  },
+  {
+    "id": "p_khalil_chahine",
+    "name": "Khalil Chahine",
+    "birth_year": 1956,
+    "path": "data/people/p_khalil_chahine.json"
   },
   {
     "id": "p_khalil_ghazal",
@@ -32333,6 +32448,12 @@
     "path": "data/people/p_kjersti_tveteras.json"
   },
   {
+    "id": "p_kjetil_bjerkestrand",
+    "name": "Kjetil Bjerkestrand",
+    "birth_year": 1955,
+    "path": "data/people/p_kjetil_bjerkestrand.json"
+  },
+  {
     "id": "p_kjetil_mrk",
     "name": "Kjetil Mørk",
     "birth_year": 1980,
@@ -34241,6 +34362,12 @@
     "path": "data/people/p_koji_steven_sakai.json"
   },
   {
+    "id": "p_koji_suzuki",
+    "name": "Kōji Suzuki",
+    "birth_year": 1957,
+    "path": "data/people/p_koji_suzuki.json"
+  },
+  {
     "id": "p_koji_tazawa",
     "name": "Kōji Tazawa",
     "birth_year": 1970,
@@ -36026,6 +36153,12 @@
     "path": "data/people/p_koushik_roy.json"
   },
   {
+    "id": "p_koushun_takami",
+    "name": "Koushun Takami",
+    "birth_year": 1969,
+    "path": "data/people/p_koushun_takami.json"
+  },
+  {
     "id": "p_kousuke_atari",
     "name": "Kousuke Atari",
     "birth_year": 1980,
@@ -36071,6 +36204,12 @@
     "name": "Kovy",
     "birth_year": 1996,
     "path": "data/people/p_kovy.json"
+  },
+  {
+    "id": "p_kow_otani",
+    "name": "Kow Otani",
+    "birth_year": 1957,
+    "path": "data/people/p_kow_otani.json"
   },
   {
     "id": "p_kowit_wattanakul",
@@ -36690,6 +36829,12 @@
     "path": "data/people/p_krishna_kumari.json"
   },
   {
+    "id": "p_krishna_levy",
+    "name": "Krishna Levy",
+    "birth_year": 1964,
+    "path": "data/people/p_krishna_levy.json"
+  },
+  {
     "id": "p_krishna_mishra",
     "name": "Krishna Mishra",
     "path": "data/people/p_krishna_mishra.json"
@@ -37026,6 +37171,12 @@
     "name": "Kristen Bjorn",
     "birth_year": 1957,
     "path": "data/people/p_kristen_bjorn.json"
+  },
+  {
+    "id": "p_kristen_buckley",
+    "name": "Kristen Buckley",
+    "birth_year": 1968,
+    "path": "data/people/p_kristen_buckley.json"
   },
   {
     "id": "p_kristen_cloke",
@@ -37567,6 +37718,11 @@
     "name": "Kristin Adams",
     "birth_year": 1981,
     "path": "data/people/p_kristin_adams.json"
+  },
+  {
+    "id": "p_kristin_amundsen",
+    "name": "Kristin Amundsen",
+    "path": "data/people/p_kristin_amundsen.json"
   },
   {
     "id": "p_kristin_bauer_van_straten",
@@ -40508,6 +40664,12 @@
     "path": "data/people/p_kuo_beating.json"
   },
   {
+    "id": "p_kuo_jung_tsai",
+    "name": "Kuo Jung Tsai",
+    "birth_year": 1950,
+    "path": "data/people/p_kuo_jung_tsai.json"
+  },
+  {
     "id": "p_kuo_shuyao",
     "name": "Kuo Shu-yao",
     "birth_year": 1990,
@@ -40625,6 +40787,12 @@
     "name": "Kurt Barthel",
     "birth_year": 1931,
     "path": "data/people/p_kurt_barthel.json"
+  },
+  {
+    "id": "p_kurt_bestor",
+    "name": "Kurt Bestor",
+    "birth_year": 1957,
+    "path": "data/people/p_kurt_bestor.json"
   },
   {
     "id": "p_kurt_braunohler",
