@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_karl_stirner",
+  "name": "Karl Stirner",
+  "external_ids": {
+    "wikidata": "Q15823034",
+    "imdb": "nm3430711"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
