@@ -1159,7 +1159,7 @@
   {
     "id": "p_kahlil_joseph",
     "name": "Kahlil Joseph",
-    "birth_year": 1978,
+    "birth_year": 1980,
     "path": "data/people/p_kahlil_joseph.json"
   },
   {
@@ -1992,6 +1992,11 @@
     "path": "data/people/p_kaj_pedersen.json"
   },
   {
+    "id": "p_kaja_balog",
+    "name": "Kaja Balog",
+    "path": "data/people/p_kaja_balog.json"
+  },
+  {
     "id": "p_kaja_martin",
     "name": "Kaja Martin",
     "path": "data/people/p_kaja_martin.json"
@@ -2279,7 +2284,7 @@
   {
     "id": "p_kalanithi_maran",
     "name": "Kalanithi Maran",
-    "birth_year": 1964,
+    "birth_year": 1965,
     "path": "data/people/p_kalanithi_maran.json"
   },
   {
@@ -7784,6 +7789,12 @@
     "path": "data/people/p_karina_ressler.json"
   },
   {
+    "id": "p_karina_sainz_borgo",
+    "name": "Karina Sainz Borgo",
+    "birth_year": 1982,
+    "path": "data/people/p_karina_sainz_borgo.json"
+  },
+  {
     "id": "p_karina_salim",
     "name": "Karina Salim",
     "birth_year": 1991,
@@ -8299,6 +8310,12 @@
     "name": "Karl Lagerfeld",
     "birth_year": 1933,
     "path": "data/people/p_karl_lagerfeld.json"
+  },
+  {
+    "id": "p_karl_laske",
+    "name": "Karl Laske",
+    "birth_year": 1958,
+    "path": "data/people/p_karl_laske.json"
   },
   {
     "id": "p_karl_lemieux",
@@ -14535,7 +14552,7 @@
   {
     "id": "p_katie_douglas",
     "name": "Katie Douglas",
-    "birth_year": 1979,
+    "birth_year": 1998,
     "path": "data/people/p_katie_douglas.json"
   },
   {
@@ -18672,6 +18689,12 @@
     "path": "data/people/p_keishi_otomo.json"
   },
   {
+    "id": "p_keisuke_fukutani",
+    "name": "Keisuke Fukutani",
+    "birth_year": 1990,
+    "path": "data/people/p_keisuke_fukutani.json"
+  },
+  {
     "id": "p_keisuke_horibe",
     "name": "Keisuke Horibe",
     "birth_year": 1966,
@@ -19561,7 +19584,7 @@
   {
     "id": "p_kelly_chen",
     "name": "Kelly Chen",
-    "birth_year": 1972,
+    "birth_year": 1975,
     "path": "data/people/p_kelly_chen.json"
   },
   {
@@ -22296,6 +22319,12 @@
     "path": "data/people/p_kenny_basumatary.json"
   },
   {
+    "id": "p_kenny_beats",
+    "name": "Kenny Beats",
+    "birth_year": 1991,
+    "path": "data/people/p_kenny_beats.json"
+  },
+  {
     "id": "p_kenny_bee",
     "name": "Kenny Bee",
     "birth_year": 1953,
@@ -22488,6 +22517,11 @@
     "name": "Kenny Wong",
     "birth_year": 1963,
     "path": "data/people/p_kenny_wong.json"
+  },
+  {
+    "id": "p_kenny_wood",
+    "name": "Kenny Wood",
+    "path": "data/people/p_kenny_wood.json"
   },
   {
     "id": "p_kenny_wormald",
@@ -27632,7 +27666,7 @@
   {
     "id": "p_kieu_chinh",
     "name": "Kieu Chinh",
-    "birth_year": 1937,
+    "birth_year": 1938,
     "path": "data/people/p_kieu_chinh.json"
   },
   {
@@ -28123,7 +28157,6 @@
   {
     "id": "p_kim_bomin",
     "name": "Kim Bo-min",
-    "birth_year": 2010,
     "path": "data/people/p_kim_bomin.json"
   },
   {
@@ -28594,7 +28627,6 @@
   {
     "id": "p_kim_dongwook",
     "name": "Kim Dong-wook",
-    "birth_year": 1983,
     "path": "data/people/p_kim_dongwook.json"
   },
   {
@@ -29503,6 +29535,12 @@
     "name": "Kim Jang-hoon",
     "birth_year": 1967,
     "path": "data/people/p_kim_janghoon.json"
+  },
+  {
+    "id": "p_kim_jangwoo",
+    "name": "Kim Jang-woo",
+    "birth_year": 1976,
+    "path": "data/people/p_kim_jangwoo.json"
   },
   {
     "id": "p_kim_jansson",
@@ -34535,6 +34573,12 @@
     "path": "data/people/p_klara_follova.json"
   },
   {
+    "id": "p_klara_formanova",
+    "name": "Klára Formanová",
+    "birth_year": 1965,
+    "path": "data/people/p_klara_formanova.json"
+  },
+  {
     "id": "p_klara_hajdinova",
     "name": "Klára Hajdinová",
     "birth_year": 1986,
@@ -36425,7 +36469,7 @@
   {
     "id": "p_koji_seto",
     "name": "Kōji Seto",
-    "birth_year": 1988,
+    "birth_year": 1980,
     "path": "data/people/p_koji_seto.json"
   },
   {
@@ -37666,6 +37710,12 @@
     "name": "Koray Candemir",
     "birth_year": 1975,
     "path": "data/people/p_koray_candemir.json"
+  },
+  {
+    "id": "p_korbinian_dufter",
+    "name": "Korbinian Dufter",
+    "birth_year": 1987,
+    "path": "data/people/p_korbinian_dufter.json"
   },
   {
     "id": "p_kordian_kadziela",
@@ -41610,6 +41660,12 @@
     "path": "data/people/p_krsto_papic.json"
   },
   {
+    "id": "p_krsunil",
+    "name": "K.R.Sunil",
+    "birth_year": 1975,
+    "path": "data/people/p_krsunil.json"
+  },
+  {
     "id": "p_krsy_fox",
     "name": "Krsy Fox",
     "birth_year": 1984,
@@ -44212,6 +44268,11 @@
     "id": "p_kwangkyo_jin",
     "name": "Kwang-kyo Jin",
     "path": "data/people/p_kwangkyo_jin.json"
+  },
+  {
+    "id": "p_kwansin_shum",
+    "name": "Kwan-Sin Shum",
+    "path": "data/people/p_kwansin_shum.json"
   },
   {
     "id": "p_kwasi_songui",
