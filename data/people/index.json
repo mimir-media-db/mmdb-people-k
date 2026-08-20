@@ -1501,6 +1501,11 @@
     "path": "data/people/p_kaichi_kaburagi.json"
   },
   {
+    "id": "p_kaidi_klein",
+    "name": "Kaidi Klein",
+    "path": "data/people/p_kaidi_klein.json"
+  },
+  {
     "id": "p_kaido_hoovelson",
     "name": "Kaido Höövelson",
     "birth_year": 1984,
@@ -7665,6 +7670,11 @@
     "path": "data/people/p_karina_nose.json"
   },
   {
+    "id": "p_karina_pilyuhina",
+    "name": "Karina Pilyuhina",
+    "path": "data/people/p_karina_pilyuhina.json"
+  },
+  {
     "id": "p_karina_plachetka",
     "name": "Karina Plachetka",
     "birth_year": 1975,
@@ -8345,6 +8355,11 @@
     "name": "Karl Spoerri",
     "birth_year": 1972,
     "path": "data/people/p_karl_spoerri.json"
+  },
+  {
+    "id": "p_karl_steven",
+    "name": "Karl Steven",
+    "path": "data/people/p_karl_steven.json"
   },
   {
     "id": "p_karl_stirner",
@@ -12626,6 +12641,11 @@
     "path": "data/people/p_kateryna_tiuri.json"
   },
   {
+    "id": "p_kateryna_tsiluyko",
+    "name": "Kateryna Tsiluyko",
+    "path": "data/people/p_kateryna_tsiluyko.json"
+  },
+  {
     "id": "p_kateryna_varchenko",
     "name": "Kateryna Varchenko",
     "birth_year": 1989,
@@ -13152,6 +13172,11 @@
     "name": "Katherine C. Hughes",
     "birth_year": 1995,
     "path": "data/people/p_katherine_c_hughes.json"
+  },
+  {
+    "id": "p_katherine_collins",
+    "name": "Katherine Collins",
+    "path": "data/people/p_katherine_collins.json"
   },
   {
     "id": "p_katherine_connella",
@@ -17422,6 +17447,11 @@
     "name": "Kazuya Konaka",
     "birth_year": 1963,
     "path": "data/people/p_kazuya_konaka.json"
+  },
+  {
+    "id": "p_kazuya_konomoto",
+    "name": "Kazuya Konomoto",
+    "path": "data/people/p_kazuya_konomoto.json"
   },
   {
     "id": "p_kazuya_murayama",
@@ -22656,6 +22686,12 @@
     "path": "data/people/p_kentaro_tamura.json"
   },
   {
+    "id": "p_kentaro_ushio",
+    "name": "Kentarô Ushio",
+    "birth_year": 1976,
+    "path": "data/people/p_kentaro_ushio.json"
+  },
+  {
     "id": "p_kentarou_tomita",
     "name": "Kentarou Tomita",
     "birth_year": 1995,
@@ -22729,6 +22765,11 @@
     "name": "Kento Ono",
     "birth_year": 1989,
     "path": "data/people/p_kento_ono.json"
+  },
+  {
+    "id": "p_kento_shimoyama",
+    "name": "Kento Shimoyama",
+    "path": "data/people/p_kento_shimoyama.json"
   },
   {
     "id": "p_kento_yamazaki",
@@ -24472,6 +24513,12 @@
     "name": "Kevin Guthrie",
     "birth_year": 1988,
     "path": "data/people/p_kevin_guthrie.json"
+  },
+  {
+    "id": "p_kevin_hageman",
+    "name": "Kevin Hageman",
+    "birth_year": 1974,
+    "path": "data/people/p_kevin_hageman.json"
   },
   {
     "id": "p_kevin_halloran",
@@ -27168,6 +27215,11 @@
     "name": "Kieran Galvin",
     "birth_year": 1966,
     "path": "data/people/p_kieran_galvin.json"
+  },
+  {
+    "id": "p_kieran_hurley",
+    "name": "Kieran Hurley",
+    "path": "data/people/p_kieran_hurley.json"
   },
   {
     "id": "p_kieran_mulroney",
@@ -34253,6 +34305,12 @@
     "path": "data/people/p_klara_mucci.json"
   },
   {
+    "id": "p_klara_muhi",
+    "name": "Klára Muhi",
+    "birth_year": 1957,
+    "path": "data/people/p_klara_muhi.json"
+  },
+  {
     "id": "p_klara_novikova",
     "name": "Klara Novikova",
     "birth_year": 1946,
@@ -36447,6 +36505,12 @@
     "path": "data/people/p_kona_venkat.json"
   },
   {
+    "id": "p_konai_helu_thaman",
+    "name": "Konai Helu Thaman",
+    "birth_year": 1945,
+    "path": "data/people/p_konai_helu_thaman.json"
+  },
+  {
     "id": "p_konatsu",
     "name": "Konatsu",
     "birth_year": 1981,
@@ -38157,6 +38221,12 @@
     "name": "Kıraç",
     "birth_year": 1972,
     "path": "data/people/p_krac.json"
+  },
+  {
+    "id": "p_kraig_wenman",
+    "name": "Kraig Wenman",
+    "birth_year": 1980,
+    "path": "data/people/p_kraig_wenman.json"
   },
   {
     "id": "p_kraisorn_saenganun",
@@ -41373,6 +41443,12 @@
     "path": "data/people/p_krystof_zlatnik.json"
   },
   {
+    "id": "p_krysty_wilsoncairns",
+    "name": "Krysty Wilson-Cairns",
+    "birth_year": 1987,
+    "path": "data/people/p_krysty_wilsoncairns.json"
+  },
+  {
     "id": "p_krystyna_czubowna",
     "name": "Krystyna Czubówna",
     "birth_year": 1954,
@@ -42118,6 +42194,11 @@
     "name": "Kubilay Karslıoğlu",
     "birth_year": 1961,
     "path": "data/people/p_kubilay_karsloglu.json"
+  },
+  {
+    "id": "p_kubilay_tat",
+    "name": "Kubilay Tat",
+    "path": "data/people/p_kubilay_tat.json"
   },
   {
     "id": "p_kubilay_tuncer",
@@ -44921,6 +45002,12 @@
     "name": "Kyrre Hellum",
     "birth_year": 1973,
     "path": "data/people/p_kyrre_hellum.json"
+  },
+  {
+    "id": "p_kyrre_kvam",
+    "name": "Kyrre Kvam",
+    "birth_year": 1975,
+    "path": "data/people/p_kyrre_kvam.json"
   },
   {
     "id": "p_kyrylo_anisimov",
