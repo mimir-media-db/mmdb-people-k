@@ -546,6 +546,11 @@
     "path": "data/people/p_kaajal_pasupathi.json"
   },
   {
+    "id": "p_kaala_bhairava",
+    "name": "Kaala Bhairava",
+    "path": "data/people/p_kaala_bhairava.json"
+  },
+  {
     "id": "p_kaali_venkat",
     "name": "Kaali Venkat",
     "birth_year": 1985,
@@ -1091,6 +1096,12 @@
     "name": "Kafayat Oluwatoyin Shafau",
     "birth_year": 1980,
     "path": "data/people/p_kafayat_oluwatoyin_shafau.json"
+  },
+  {
+    "id": "p_kafka_asagiri",
+    "name": "Kafka Asagiri",
+    "birth_year": 1984,
+    "path": "data/people/p_kafka_asagiri.json"
   },
   {
     "id": "p_kafui_danku",
@@ -2862,6 +2873,11 @@
     "path": "data/people/p_kamal_haasan.json"
   },
   {
+    "id": "p_kamal_john_iskander",
+    "name": "Kamal John Iskander",
+    "path": "data/people/p_kamal_john_iskander.json"
+  },
+  {
     "id": "p_kamal_k_m",
     "name": "Kamal K. M",
     "path": "data/people/p_kamal_k_m.json"
@@ -4430,6 +4446,12 @@
     "path": "data/people/p_kangana_ranaut.json"
   },
   {
+    "id": "p_kangding_ray",
+    "name": "Kangding Ray",
+    "birth_year": 2006,
+    "path": "data/people/p_kangding_ray.json"
+  },
+  {
     "id": "p_kangethe_mungai",
     "name": "Kang'ethe Mungai",
     "path": "data/people/p_kangethe_mungai.json"
@@ -4906,6 +4928,12 @@
     "id": "p_kaoruko_wakaba",
     "name": "Kaoruko Wakaba",
     "path": "data/people/p_kaoruko_wakaba.json"
+  },
+  {
+    "id": "p_kaouther_adimi",
+    "name": "Kaouther Adimi",
+    "birth_year": 1985,
+    "path": "data/people/p_kaouther_adimi.json"
   },
   {
     "id": "p_kaouther_belhaj",
@@ -9871,8 +9899,8 @@
   },
   {
     "id": "p_karunakaran",
-    "name": "A. Karunakaran",
-    "birth_year": 1971,
+    "name": "Karunakaran",
+    "birth_year": 1981,
     "path": "data/people/p_karunakaran.json"
   },
   {
@@ -10014,6 +10042,12 @@
     "name": "Kasey Warner",
     "birth_year": 1995,
     "path": "data/people/p_kasey_warner.json"
+  },
+  {
+    "id": "p_kasha_jandackova",
+    "name": "Kasha Jandáčková",
+    "birth_year": 1992,
+    "path": "data/people/p_kasha_jandackova.json"
   },
   {
     "id": "p_kasha_kropinski",
@@ -12417,7 +12451,7 @@
   {
     "id": "p_katerina_pechova",
     "name": "Kateřina Pechová",
-    "birth_year": 1986,
+    "birth_year": 1995,
     "path": "data/people/p_katerina_pechova.json"
   },
   {
@@ -17004,7 +17038,7 @@
   {
     "id": "p_kazimierz_mazur",
     "name": "Kazimierz Mazur",
-    "birth_year": 1984,
+    "birth_year": 1947,
     "path": "data/people/p_kazimierz_mazur.json"
   },
   {
@@ -20452,6 +20486,11 @@
     "path": "data/people/p_ken_cheeseman.json"
   },
   {
+    "id": "p_ken_cheng",
+    "name": "Ken Cheng",
+    "path": "data/people/p_ken_cheng.json"
+  },
+  {
     "id": "p_ken_chu",
     "name": "Ken Chu",
     "birth_year": 1979,
@@ -21102,7 +21141,7 @@
   {
     "id": "p_ken_yasuda",
     "name": "Ken Yasuda",
-    "birth_year": 1971,
+    "birth_year": 1973,
     "path": "data/people/p_ken_yasuda.json"
   },
   {
@@ -24099,6 +24138,11 @@
     "path": "data/people/p_kevin_bernhardt.json"
   },
   {
+    "id": "p_kevin_besignano",
+    "name": "Kevin Besignano",
+    "path": "data/people/p_kevin_besignano.json"
+  },
+  {
     "id": "p_kevin_bigley",
     "name": "Kevin Bigley",
     "birth_year": 1986,
@@ -24402,7 +24446,7 @@
   {
     "id": "p_kevin_doyle",
     "name": "Kevin Doyle",
-    "birth_year": 1983,
+    "birth_year": 1960,
     "path": "data/people/p_kevin_doyle.json"
   },
   {
@@ -29609,8 +29653,7 @@
   },
   {
     "id": "p_kim_jungeun",
-    "name": "Kim Jung-eun",
-    "birth_year": 1974,
+    "name": "Kim Jungeun",
     "path": "data/people/p_kim_jungeun.json"
   },
   {
@@ -30530,7 +30573,7 @@
   {
     "id": "p_kim_seongsu",
     "name": "Kim Seong-su",
-    "birth_year": 1975,
+    "birth_year": 1970,
     "path": "data/people/p_kim_seongsu.json"
   },
   {
@@ -31406,6 +31449,11 @@
     "name": "Kim Zimmer",
     "birth_year": 1955,
     "path": "data/people/p_kim_zimmer.json"
+  },
+  {
+    "id": "p_kim_zimmermann",
+    "name": "Kim Zimmermann",
+    "path": "data/people/p_kim_zimmermann.json"
   },
   {
     "id": "p_kim_zubick",
@@ -34507,6 +34555,12 @@
     "path": "data/people/p_klara_van_es.json"
   },
   {
+    "id": "p_klara_vlasakova",
+    "name": "Klára Vlasáková",
+    "birth_year": 1990,
+    "path": "data/people/p_klara_vlasakova.json"
+  },
+  {
     "id": "p_klara_vojtkova",
     "name": "Klára Vojtková",
     "birth_year": 1985,
@@ -35340,6 +35394,12 @@
     "name": "Knut Lystad",
     "birth_year": 1946,
     "path": "data/people/p_knut_lystad.json"
+  },
+  {
+    "id": "p_knut_mierswe",
+    "name": "Knut Mierswe",
+    "birth_year": 1981,
+    "path": "data/people/p_knut_mierswe.json"
   },
   {
     "id": "p_knut_mllerlien",
@@ -36961,6 +37021,12 @@
     "path": "data/people/p_konstantin_frolov.json"
   },
   {
+    "id": "p_konstantin_georgiou",
+    "name": "Konstantin Georgiou",
+    "birth_year": 1972,
+    "path": "data/people/p_konstantin_georgiou.json"
+  },
+  {
     "id": "p_konstantin_gerginov",
     "name": "Konstantin Gerginov",
     "birth_year": 2005,
@@ -37430,6 +37496,12 @@
     "name": "Kore",
     "birth_year": 1977,
     "path": "data/people/p_kore.json"
+  },
+  {
+    "id": "p_koreless",
+    "name": "Koreless",
+    "birth_year": 1991,
+    "path": "data/people/p_koreless.json"
   },
   {
     "id": "p_korhan_abay",
@@ -38105,6 +38177,12 @@
     "name": "Kouhei Takeda",
     "birth_year": 1986,
     "path": "data/people/p_kouhei_takeda.json"
+  },
+  {
+    "id": "p_kouhei_taniguchi",
+    "name": "Kouhei Taniguchi",
+    "birth_year": 1987,
+    "path": "data/people/p_kouhei_taniguchi.json"
   },
   {
     "id": "p_kouichitv",
@@ -40704,7 +40782,7 @@
   {
     "id": "p_kristof_gerega",
     "name": "Kristof Gerega",
-    "birth_year": 1981,
+    "birth_year": 1980,
     "path": "data/people/p_kristof_gerega.json"
   },
   {
@@ -40832,6 +40910,12 @@
     "id": "p_kristoffer_kirboe",
     "name": "Kristoffer Kiørboe",
     "path": "data/people/p_kristoffer_kirboe.json"
+  },
+  {
+    "id": "p_kristoffer_malmsten",
+    "name": "Kristoffer Malmsten",
+    "birth_year": 1983,
+    "path": "data/people/p_kristoffer_malmsten.json"
   },
   {
     "id": "p_kristoffer_martin",
@@ -42085,6 +42169,11 @@
     "name": "Kseniia Mishyna",
     "birth_year": 1989,
     "path": "data/people/p_kseniia_mishyna.json"
+  },
+  {
+    "id": "p_kseniia_zastavska",
+    "name": "Kseniia Zastavska",
+    "path": "data/people/p_kseniia_zastavska.json"
   },
   {
     "id": "p_ksenija_marinkovic",
@@ -44093,7 +44182,7 @@
   {
     "id": "p_kwon_sohyun",
     "name": "Kwon So-hyun",
-    "birth_year": 1987,
+    "birth_year": 1994,
     "path": "data/people/p_kwon_sohyun.json"
   },
   {
