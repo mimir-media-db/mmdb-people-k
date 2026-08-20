@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_kaspar_kadastik",
+  "name": "Kaspar Kadastik",
+  "external_ids": {
+    "wikidata": "Q16405509",
+    "imdb": "nm4173601"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1987
+}
