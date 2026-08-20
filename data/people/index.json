@@ -2038,7 +2038,7 @@
   {
     "id": "p_kajetan_pisarovic",
     "name": "Kajetán Písařovic",
-    "birth_year": 1982,
+    "birth_year": 1981,
     "path": "data/people/p_kajetan_pisarovic.json"
   },
   {
@@ -12788,6 +12788,11 @@
     "path": "data/people/p_kateryna_kuznetsova.json"
   },
   {
+    "id": "p_kateryna_mayevska",
+    "name": "Kateryna Mayevska",
+    "path": "data/people/p_kateryna_mayevska.json"
+  },
+  {
     "id": "p_kateryna_osadcha",
     "name": "Kateryna Osadcha",
     "birth_year": 1983,
@@ -13057,7 +13062,7 @@
   {
     "id": "p_katharina_rabl",
     "name": "Katharina Rabl",
-    "birth_year": 1993,
+    "birth_year": 1992,
     "path": "data/people/p_katharina_rabl.json"
   },
   {
@@ -14274,6 +14279,11 @@
     "name": "Kathy Yuen",
     "birth_year": 1987,
     "path": "data/people/p_kathy_yuen.json"
+  },
+  {
+    "id": "p_kati_eriksen",
+    "name": "Kati Eriksen",
+    "path": "data/people/p_kati_eriksen.json"
   },
   {
     "id": "p_kati_juurus",
@@ -19877,7 +19887,7 @@
   {
     "id": "p_kelly_mccormick",
     "name": "Kelly McCormick",
-    "birth_year": 1960,
+    "birth_year": 1977,
     "path": "data/people/p_kelly_mccormick.json"
   },
   {
@@ -23451,7 +23461,7 @@
   {
     "id": "p_kerim_waller",
     "name": "Kerim Waller",
-    "birth_year": 1994,
+    "birth_year": 1993,
     "path": "data/people/p_kerim_waller.json"
   },
   {
@@ -31255,7 +31265,7 @@
   {
     "id": "p_kim_taeyong",
     "name": "Kim Tae-yong",
-    "birth_year": 1969,
+    "birth_year": 1987,
     "path": "data/people/p_kim_taeyong.json"
   },
   {
