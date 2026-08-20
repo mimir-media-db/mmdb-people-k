@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_keren_ann",
+  "name": "Keren Ann",
+  "external_ids": {
+    "wikidata": "Q262294",
+    "imdb": "nm1374399"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
