@@ -1,12 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_karunakaran",
-  "name": "A. Karunakaran",
+  "name": "Karunakaran",
   "external_ids": {
-    "wikidata": "Q4648046",
-    "imdb": "nm0440269"
+    "wikidata": "Q16730609",
+    "imdb": "nm5369429"
   },
-  "last_updated": "2026-08-17",
-  "birth_year": 1971,
-  "death_year": null
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
 }

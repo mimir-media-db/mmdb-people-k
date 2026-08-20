@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
   "id": "p_kim_jungeun",
-  "name": "Kim Jung-eun",
+  "name": "Kim Jungeun",
   "external_ids": {
-    "wikidata": "Q489001",
-    "imdb": "nm1155573"
+    "wikidata": "Q114819289",
+    "imdb": "nm7345044"
   },
-  "last_updated": "2026-08-18",
-  "birth_year": 1974
+  "last_updated": "2026-08-20"
 }
